@@ -1,0 +1,2661 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <head profile="http://www.w3.org/1999/xhtml/vocab"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <link rel="shortcut icon" href="https://cs.msu.ru/sites/cmc/files/favicon.ico" type="image/vnd.microsoft.icon"> 
+  <link rel="shortlink" href="/node/2272"> 
+  <link rel="canonical" href="/node/2272"> 
+  <meta name="Generator" content="Drupal 7 (http://drupal.org)"> 
+  <title>Труды «Прикладная математика и информатика» | ВМК МГУ</title> 
+  <link type="text/css" rel="stylesheet" href="https://cs.msu.ru/sites/cmc/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://cs.msu.ru/sites/cmc/files/css/css_5lar-8cz2AAdh9Rqr2so0Hr_6BFv1ewjgwqDlh0zCpM.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://cs.msu.ru/sites/cmc/files/css/css_nNqm61nlpvpvdKtV4GJ2wOYWKawJbPRtoqPSQJg6Wps.css" media="screen"> 
+  <link type="text/css" rel="stylesheet" href="https://cs.msu.ru/sites/cmc/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://cs.msu.ru/sites/cmc/files/css/css_TTQpGrpsEgh68kAW4GxxWJwvnarTPvi-G3IH6rYXrR4.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="https://cs.msu.ru/sites/cmc/files/css/css_UuPrCC-F4n9hJODXWtIGpbSuP_Y6eRL5Cnw5KQ6bhp0.css" media="screen"> 
+  <script type="text/javascript" src="https://cs.msu.ru/sites/cmc/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script> 
+  <script type="text/javascript" src="https://cs.msu.ru/sites/cmc/files/js/js_hZa0vUnZMianaJK1f59laAifuzbYaqf6mJCeOJfdrig.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cmc_theme","theme_token":"8GAan0zY58cwrJd5vDoiwO99ROI0HouviIzLBqExxAw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/ru_ze0_6grXXgiDeQ5by7KCmJiNqarUllNzDPD45HVxqUI.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/cmc\/modules\/colorbox\/js\/colorbox.js":1,"sites\/cmc\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/cmc\/modules\/extlink\/extlink.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/cmc\/modules\/cmc_tweaks\/cmc_tweaks.css":1,"sites\/cmc\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/cmc\/modules\/views\/css\/views.css":1,"sites\/cmc\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/cmc\/modules\/ctools\/css\/ctools.css":1,"sites\/cmc\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/cmc\/themes\/cmc_theme\/..\/..\/..\/all\/libraries\/960\/code\/css\/min\/reset.css":1,"sites\/cmc\/themes\/cmc_theme\/..\/..\/..\/all\/libraries\/960\/code\/css\/min\/960_16_col.css":1,"sites\/cmc\/themes\/cmc_theme\/..\/..\/..\/all\/libraries\/960\/code\/css\/min\/text.css":1,"sites\/cmc\/themes\/cmc_theme\/system.menus.css":1,"sites\/cmc\/themes\/cmc_theme\/styles\/layout.css":1,"sites\/cmc\/themes\/cmc_theme\/styles\/style.css":1}},"colorbox":{"opacity":"0.85","current":"{current} \u0438\u0437 {total}","previous":"\u00ab \u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439","next":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u00bb","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","maxWidth":"100%","maxHeight":"100%","fixed":true,"__drupal_alter_by_ref":["default"]},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"msu\\.ru","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0}});
+//--><!]]>
+</script> 
+ </head> 
+ <body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-2272 node-type-page i18n-ru"> 
+  <div id="skip-link"> 
+   <a href="#main-content" class="element-invisible element-focusable">Перейти к основному содержанию</a> 
+  </div> 
+  <div style="display: none"> 
+   <div class="region region-hidden"> 
+    <div id="block-block-15" class="block block-block"> 
+     <div class="content"> 
+      <style>
+.region-header-2 .block-block {
+float: right;
+margin-top: 5px;
+}
+li.translation_en, li.translation_ru {
+display: none;
+}
+</style> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="container container_16"> 
+   <!-- Header --> 
+   <div id="header" class="zone zone-white"> 
+    <div class="grid grid_10"> 
+     <div class="region region-header-1"> 
+      <div id="block-block-1" class="block block-block"> 
+       <div class="content"> 
+        <p><a href="/"><img class="front" src="/sites/cmc/logo.png" alt="Логотип факультета ВМК МГУ" title="Факультет ВМК МГУ имени М.В.&nbsp;Ломоносова"></a></p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="grid grid_6"> 
+     <div class="region region-header-2"> 
+      <div id="block-search-form" class="block block-search"> 
+       <div class="content"> 
+        <form action="/node/2272" method="post" id="search-block-form" accept-charset="UTF-8">
+         <div>
+          <div class="container-inline"> 
+           <h2 class="element-invisible">Форма поиска</h2> 
+           <div class="form-item form-type-textfield form-item-search-block-form"> 
+            <label class="element-invisible" for="edit-search-block-form--2">Поиск </label> 
+            <input title="Введите ключевые слова для поиска." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"> 
+           </div> 
+           <div class="form-actions form-wrapper" id="edit-actions">
+            <input type="submit" id="edit-submit" name="op" value="Поиск" class="form-submit">
+           </div>
+           <input type="hidden" name="form_build_id" value="form-dQ6YAsT0Lv3uSnCXSG4QtGFqb2l23U6n7QOhaAQf02c"> 
+           <input type="hidden" name="form_id" value="search_block_form"> 
+          </div> 
+         </div>
+        </form> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- Menu --> 
+   <div id="menu" class="zone zone-slim"> 
+    <div class="grid grid_8"> 
+     <div class="region region-menu-1"> 
+      <div id="block-menu-menu-sections" class="block block-menu"> 
+       <div class="content"> 
+        <ul class="menu">
+         <li class="first leaf"><a href="/" title="Перейти к главной странице">Главная</a></li> 
+         <li class="leaf"><a href="/news" title="Новости, анонсы и объявления">Новости</a></li> 
+         <li class="last leaf"><a href="/theses" title="Объявления о защитах диссертаций">Диссертации</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="grid grid_8"> 
+     <div class="region region-menu-2"> 
+      <div id="block-menu-menu-audiences" class="block block-menu"> 
+       <div class="content"> 
+        <ul class="menu">
+         <li class="first leaf"><a href="/info/entrants">Абитуриентам</a></li> 
+         <li class="leaf"><a href="/info/students">Студентам</a></li> 
+         <li class="leaf"><a href="/info/faculty">Сотрудникам</a></li> 
+         <li class="leaf"><a href="/info/alumni">Выпускникам</a></li> 
+         <li class="last leaf"><a href="/info/visitors">Гостям</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- Main --> 
+   <div id="main" class="zone zone-white"> 
+    <div class="grid grid_3"> 
+     <div class="region region-sidebar-first"> 
+      <div id="block-system-main-menu" class="block block-system block-menu"> 
+       <div class="content"> 
+        <ul class="menu">
+         <li class="first collapsed"><a href="/faculty">Факультет</a></li> 
+         <li class="collapsed"><a href="/education">Образование</a></li> 
+         <li class="collapsed"><a href="/studies">Учебный процесс</a></li> 
+         <li class="collapsed"><a href="/dopobr" title="Дополнительные образовательные программы">Дополнительное образование</a></li> 
+         <li class="expanded active-trail"><a href="/science" class="active-trail">Наука</a>
+          <ul class="menu">
+           <li class="first leaf"><a href="/science/research-department">Научный отдел</a></li> 
+           <li class="collapsed"><a href="/science/councils">Работа диссертационных советов</a></li> 
+           <li class="expanded active-trail"><a href="/science/journals" title="Журналы" class="active-trail">Журналы</a>
+            <ul class="menu">
+             <li class="first leaf"><a href="/science/journals/vestnik">Вестник МГУ. Серия 15</a></li> 
+             <li class="leaf active-trail"><a href="/science/journals/prikl-matem-informat" class="active-trail">Прикладная математика и информатика</a></li> 
+             <li class="last leaf"><a href="/science/journals/smu-proceedings">Сборник СМУ</a></li> 
+            </ul></li> 
+           <li class="collapsed"><a href="/science/smu">Совет молодых ученых</a></li> 
+           <li class="collapsed"><a href="/science/research">Научные проекты</a></li> 
+           <li class="leaf"><a href="/node/1207" title="">Издательская деятельность</a></li> 
+           <li class="collapsed"><a href="/science/conferences">Конференции</a></li> 
+           <li class="collapsed"><a href="/science/summer-and-winter-schools">Летние и зимние школы</a></li> 
+           <li class="leaf"><a href="/science/reports">Отчёты</a></li> 
+           <li class="last leaf"><a href="/node/2621">Научный календарь МГУ</a></li> 
+          </ul></li> 
+         <li class="collapsed"><a href="/departments">Кафедры</a></li> 
+         <li class="collapsed"><a href="/laboratories">Лаборатории</a></li> 
+         <li class="collapsed"><a href="/persons/all">Сотрудники</a></li> 
+         <li class="collapsed"><a href="/inter">Международная деятельность</a></li> 
+         <li class="collapsed"><a href="/admission">Приемная комиссия</a></li> 
+         <li class="collapsed"><a href="/students">Студенческая жизнь</a></li> 
+         <li class="last leaf"><a href="/alumni_new" title="Выпускники факультета ВМК МГУ">Наши выпускники</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="grid grid_9"> 
+     <a id="main-content"></a> 
+     <div class="region"> 
+      <h2 class="element-invisible">Вы здесь</h2>
+      <div class="breadcrumb">
+       <a href="/">Главная</a> » 
+       <a href="/science" class="active-trail">Наука</a> » 
+       <a href="/science/journals" title="Журналы" class="active-trail">Журналы</a> » 
+       <a href="/science/journals/prikl-matem-informat" class="active-trail">Прикладная математика и информатика</a>
+      </div> 
+      <h1>Труды «Прикладная математика и информатика»</h1> 
+     </div> 
+     <div class="region region-content"> 
+      <div id="block-system-main" class="block block-system"> 
+       <div class="content"> 
+        <div id="node-2272" class="node node-page clearfix" about="/node/2272" typeof="sioc:Item foaf:Document"> 
+         <span property="dc:title" content="Труды «Прикладная математика и информатика»" class="rdf-meta element-hidden"></span> 
+         <div class="content"> 
+          <span class="print-link"><span class="print_html"><a href="https://cs.msu.ru/print/2272" title="Показать страницу для печати для этой страницы." class="print-page" rel="nofollow"><img class="print-icon" typeof="foaf:Image" src="https://cs.msu.ru/sites/all/modules/print/icons/print_icon.png" width="16px" height="16px" alt="Версия для печати" title="Версия для печати"></a></span><span class="print_mail"><a href="https://cs.msu.ru/printmail/2272" title="Send this page by email." class="print-mail" rel="nofollow"><img class="print-icon" typeof="foaf:Image" src="https://cs.msu.ru/sites/all/modules/print/print_mail/icons/mail_icon.png" width="16px" height="16px" alt="Send by email" title="Send by email"></a></span></span>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+           <div class="field-items">
+            <div class="field-item even" property="content:encoded">
+             <p><a href="/sites/cmc/files/docs/trudy_no49.jpeg" target="_blank"><img src="/sites/cmc/files/docs/trudy_no49.jpeg" width="120" align="right" style="padding:10px;"></a> На факультете регулярно с 1999 года раз в четыре месяца выходят труды сотрудников факультета в виде сборника «Прикладная математика и информатика».</p> 
+             <p>В труды факультета ВМК включены работы по темам:</p> 
+             <ul>
+              <li>математическое моделирование</li> 
+              <li>численные методы</li> 
+              <li>обратные задачи </li> 
+              <li>информатика</li> 
+              <li>оптимальное управление</li> 
+              <li>математические модели в финансовых задачах</li> 
+             </ul>
+             <p>В этих публикациях нашли отражение исследования ученых факультета по актуальным проблемам прикладной математики, выполненные в рамках основных научных направлений факультета.</p> 
+             <p>Для студентов, аспирантов и специалистов в области вычислительной математики и математической физики.</p> 
+             <p><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+ .row { vertical-align: top; height:auto !important; }
+ .list {display:none; }
+ .show {display: none; }
+ .hide:target + .show {display: inline; }
+ .hide:target {display: none; }
+ .hide:target ~ .list {display:inline; }
+ @media print { .hide, .show { display: none; } }
+ 
+/*--><!]]>*/
+</style></p> 
+             <div class="row"> 
+              <a href="#hide54" class="hide" id="hide54">Выпуск №54, 2017г.</a> 
+              <a href="#show54" class="show" id="show54">Выпуск №54, 2017г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Денисов А.М., Соловьева С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/denisov_0.pdf" target="_blank">Численное решение задач определения начального условия в задачах Коши для гиперболического уравнения с малым параметром.</a>
+               <br>
+               <strong>Арделян Н.В., Космачевский К.В., Саблин М.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/ardelyan_0.pdf" target="_blank">О свойствах согласованных сеточных операторов для сеточных функций, определенных в ячейках и на гранях сетки.</a>
+               <br>
+               <strong>Белов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_9.pdf" target="_blank">Вероятностно-статистический подход к методу наименьших квадратов.</a>
+               <br>
+               <strong>Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_21.pdf" target="_blank">Об использовании метода интегральных уравнений в низкочастотной электродинамике неоднородных контрастных сред.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Баев А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/baev_1.pdf" target="_blank">Численное решение обратной задачи рассеяния для уравнения акустики в слоистой среде с поглощением.</a>
+               <br>
+               <strong>Лапонин В.С., Складчиков С.А., Савенкова Н.П.</strong>, 
+               <a href="/sites/cmc/files/docs/laponin_4.pdf" target="_blank">Численное исследование условий образования волн в кольцевом канале.</a>
+               <br>
+               <strong>Савенкова Н.П., Мокин А.Ю., Лапонин В.С.</strong>, 
+               <a href="/sites/cmc/files/docs/savenkova_1.pdf" target="_blank">Математическое распределение давлений в пласте промышленного месторождения нефти.</a> 
+               <br>
+               <strong>Муравей Д.Л.</strong>, 
+               <a href="/sites/cmc/files/docs/muravey.pdf" target="_blank">Оптимальное управление портфелем в модифицированной модели постоянной эластичности дисперсии.</a> 
+               <br>
+               <strong>Никольский М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/nikolskiy_1.pdf" target="_blank">Об S-регулярных управляемых объектах.</a> 
+               <br>
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide22" class="hide" id="hide22">Выпуск №53, 2016г.</a> 
+              <a href="#show22" class="show" id="show22">Выпуск №53, 2016г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Туйкина С.Р., Соловьева С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/tuykina.pdf" target="_blank">Численный метод определения источника возбуждения для математической модели Фитц-Хью–Нагумо.</a>
+               <br>
+               <strong>Савенкова Н.П., Мокин А.Ю., Ильютко В.П.</strong>, 
+               <a href="/sites/cmc/files/docs/savenkova_0.pdf" target="_blank">Спектральный метод исследования зависимости МГД стабильности электролизной ванны от формы гарнисажа.</a>
+               <br>
+               <strong>Киселёв Ю.Н., Аввакумов С.Н., Орлов М.В., Орлов С.М.</strong>, 
+               <a href="/sites/cmc/files/docs/kiselev.pdf" target="_blank">Задача оптимального распределения ресурсов в двухсекторной экономической модели с интегральным функционалом.</a>
+               <br>
+               <strong>Головина А.М., Дьяконов А.Г., Харациди О.А.</strong>, 
+               <a href="/sites/cmc/files/docs/golovina_0.pdf" target="_blank">Анализ схожести пульсовых волн в фотоплетизмограммах.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Морозов В.В., Бабин В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_2.pdf" target="_blank">Оценка вероятности разорения в модели Мертона.</a>
+               <br>
+               <strong>Куркина Е.С.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_3.pdf" target="_blank">Математические модели инвестиционных экономических циклов.</a>
+               <br>
+               <strong>Гаврилов С.В., Гуров С.И., Жукова Т.Д., Рухлов В.С., Рыжова Д.И., Тельпухов Д.В.</strong>, 
+               <a href="/sites/cmc/files/docs/gavrilov_0.pdf" target="_blank">Методы повышения сбоеустойчивости комбинационных ИМС на основе избыточного кодирования.</a> 
+               <br>
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide8" class="hide" id="hide8">Выпуск №52, 2016г.</a> 
+              <a href="#show8" class="show" id="show8">Выпуск №52, 2016г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Столяров Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_stolyarov.pdf" target="_blank">Численный метод решения обратной граничной задачи для уравнения теплопроводности.</a>
+               <br>
+               <strong>Захарова Т.В., Карпов П.И., Бугаевский В.М.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharova_karpov.pdf" target="_blank">Локализация источника активности при решении обратной задачи магнитоэнцефалографии.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Еремин Ю.А.</strong>, 
+               <a href="/sites/cmc/files/docs/eremin.pdf" target="_blank">Обобщение оптической теоремы на случай возбуждения локального препятствия мультипольным источником.</a>
+               <br>
+               <strong>Загурский Д.Ю., Захарова И.Г., Трофимов В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/zagursky_zakharova_trofimov.pdf" target="_blank">Консервативная разностная схема для уравнений максвелла, описывающих нестационарный нелинейный отклик вещества в полуклассическом приближении.</a>
+               <br>
+               <strong>Аникеев Ф.А,. Анпилов С.В., Зайцев Ф.С., Савенкова Н.П., Калмыков А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/anikeev_i_dr..pdf" target="_blank">Моделирование релаксации колебаний электролизёра со свободной границей.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Лапонин В.С. Савенкова Н.П.</strong>, 
+               <a href="/sites/cmc/files/docs/laponin_savenkova.pdf" target="_blank">Поиск аналитического решения в трехмерном уравнении Гросса-Питаевского.</a>
+               <br>
+               <strong>Лукьяница А.А.</strong>, 
+               <a href="/sites/cmc/files/docs/lukianitsa.pdf" target="_blank">Эффективные дескрипторы для локального описания изображений.</a>
+               <br>
+               <strong>Ян Цзяньсюнь</strong>, 
+               <a href="/sites/cmc/files/docs/yan_czyansyun.pdf" target="_blank">Метод выделения поверхностных волн из сейсмических данных.</a>
+               <br>
+               <strong>Барашков И.С., Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/barashkov_dmitriev.pdf" target="_blank">Численный метод расчёта низкочастотных электромагнитных полей в неоднородной среде для случая Н-поляризации.</a>
+               <br>
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide7" class="hide" id="hide7">Выпуск №51, 2016г.</a> 
+              <a href="#show7" class="show" id="show7">Выпуск №51, 2016г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_2.pdf" target="_blank">Обратные задачи частотного зондирования слоистых сред.</a>
+               <br>
+               <strong>Никольский М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/nikolskiy_.pdf" target="_blank">Об одной задаче управления с неполностью известным начальным условием.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Бочарова О.В., Лебедев М.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/bocharova2.pdf" target="_blank">Тестирование метода Годунова первого порядка точности на некоторых модельных и практических задачах.</a>
+               <br>
+               <strong>Петрова Л.И.</strong>, 
+               <a href="/sites/cmc/files/docs/petrova-t2_1.pdf" target="_blank">Особенности численного моделирования уравнений Эйлера и Навье-Стокса.</a>
+               <br>
+               <strong>Широков И.А., Елизарова Т.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/shirokovelizarova_2016.pdf" target="_blank">Применение квазигазодинамических уравнений к моделированию пристеночных турбулентных течений.</a>
+               <br>
+               <strong>Лопушенко В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/lopushenko_cmm_2016_vol51.pdf" target="_blank">Исследование плоских дефектов внутри диэлектрической подложки методом интегральных уравнений в спектральной области.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Белов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/belov.pdf" target="_blank">О равенстве МНК и Эйткена оценок.</a>
+               <br>
+               <strong>Вороненко А.А., Воронова Н.К., Ильютко В.П.</strong>, 
+               <a href="/sites/cmc/files/docs/voronenko_1.pdf" target="_blank">О существовании универсальных функций для класса линейных k-значных функций при небольших k.</a>
+               <br>
+               <strong>Артамонов С.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/artamonov.pdf" target="_blank">Некоторые вопросы теории приближений целыми функциями экспоненциального типа и обобщенные модули гладкости.</a>
+               <br>
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide4" class="hide" id="hide4">Выпуск №50, 2015г.</a> 
+              <a href="#show4" class="show" id="show4">Выпуск №50, 2015г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Куркина Е.С., Трощиев Ю.В., Ковалев В.А., Куретова Е.Д.</strong>, 
+               <a href="/sites/cmc/files/docs/paper_kurkina_k_fin_28oct.pdf" target="_blank">О мелкомасштабной локализации тепла в режиме с обострением в поперечном сечении магнитной трубки во время солнечной вспышки.</a>
+               <br>
+               <strong>Дмитриев В.И., Ингтем Ж.Г., Мерщикова Н.А., Филиппова Я.А.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_ingtem_mershikova.pdf" target="_blank">Численное дифференцирование данных электроразведки для повышения разрешающей способности.</a>
+               <br>
+               <strong>Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_1.pdf" target="_blank">Модель возбуждения глубинных коровых аномалий магнитотеллурическим полем.</a>
+               <br>
+               <strong>Еремин Ю.А., Свешников А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/eremin_sveshnikov_compmath_2015.pdf" target="_blank">Оценка интегральных характеристик рассеяния в поле точечного эмиттера на основе энергетических соотношений.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Вороненко А.А.</strong>, 
+               <a href="/sites/cmc/files/docs/voronenko_0.pdf" target="_blank">О порождении образов нескольких литералов.</a>
+               <br>
+               <strong>Новикова А.О.</strong>, 
+               <a href="/sites/cmc/files/docs/novikova.pdf" target="_blank">Построение множеств достижимости двумерных нелинейных управляемых систем пиксельным методом.</a>
+               <br>
+               <strong>Морозов В.В., Хижняк К.В.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_hizhnyak.pdf" target="_blank">Оценка стоимости американского двустороннего опциона Марграбе с конечным сроком действия.</a> 
+               <br>
+               <strong>Дородницын Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dorodn_saw.pdf" target="_blank">Сеточные осцилляции в разностных схемах и метод их приближенного анализа.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide1" class="hide" id="hide1">Выпуск №49, 2015г.</a> 
+              <a href="#show1" class="show" id="show1">Выпуск №49, 2015г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Барашков И.С.</strong>, 
+               <a href="/sites/cmc/files/docs/9_dmitriev_barashkov_2015.pdf" target="_blank">Разностно-интегральный метод расчёта низкочастотных электромагнитных полей в неоднородной среде.</a>
+               <br>
+               <strong>Соловьева С.И., Туйкина С.Р.</strong>, 
+               <a href="/sites/cmc/files/docs/soloveva_tuykina_2015.pdf" target="_blank">Метод численного решения обратной задачи для математической модели возбуждения сердца.</a>
+               <br>
+               <strong>Васильева Н.А., Ингтем Ж.Г., Силаев Д.А.</strong>, 
+               <a href="/sites/cmc/files/docs/sbornik_vasilyeva.pdf" target="_blank">Нелинейная динамическая модель роста микроорганизмов в почвенной среде.</a>
+               <br>
+               <strong>Лапонин В.С.</strong>, 
+               <a href="/sites/cmc/files/docs/laponin.pdf" target="_blank">Численное исследование пространственных солитонов.</a>
+               <br>
+               <strong>Лопушенко В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/lopushenko.pdf" target="_blank">Метод интегральных уравнений в спектральной области для моделирования рассеивающих свойств группы плоских частиц в присутствии подложки.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Никольский И.М., Фурманов К.К.</strong>, 
+               <a href="/sites/cmc/files/docs/nikolsky_article.pdf" target="_blank">Параллельный алгоритм поиска структурных изменений во временных рядах.</a>
+               <br>
+               <strong>Решетов В.Ю., Перевозчиков А.Г.,Лесик И.А.</strong>, 
+               <a href="/sites/cmc/files/docs/statya_83-16__privedennaya_v_sootvetstvie_.pdf" target="_blank">Модель преодоления многоуровневой системы защиты нападением.</a>
+               <br>
+               <strong>Дородницын Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dorodnits.pdf" target="_blank">Об устойчивости некоторых разностных задач с неотражающими краевыми условиями.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide2" class="hide" id="hide2">Выпуск №48, 2015г.</a> 
+              <a href="#show2" class="show" id="show2">Выпуск №48, 2015г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Савенкова Н.П., Калмыков А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/savenkova.pdf" target="_blank">О стабилизации алгоритма расчёта распределения магнитогидродинамических полей внутри электролизной ванны.</a>
+               <br>
+               <strong>Белолипецкий А.А., Малинина Е.А.</strong>, 
+               <a href="/sites/cmc/files/docs/belolipeckiy.pdf" target="_blank">Численное решение двухкритериальной задачи оптимизации формы канала при движении по нему шара.</a>
+               <br>
+               <strong>Зимоздра Р.Е.</strong>, 
+               <a href="/sites/cmc/files/docs/zimozdra.pdf" target="_blank">О совместном применении электрических и магнитных данных для решения обратных задач энцефалографии.</a>
+               <br>
+               <strong>Захаров Е.В., Орлик С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharov_orlik.pdf" target="_blank">Исследование разрешимости трехмерной задачи Неймана для уравнения Пуассона в кусочно-однородных проводящих средах.</a>
+               <br>
+               <strong>Дмитриев В.И., Дмитриева И.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev.pdf" target="_blank">Трехмерная задача продолжения потенциала.</a>
+               <br>
+               <strong>Лопушенко В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/lopushenko_0.pdf" target="_blank">Анализ плоских цилиндрических дефектов подложки методом интегральных уравнений в спектральной области.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Исмаилов И.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/ismailov.pdf" target="_blank">Условия оптимальности в задачах управления системами, описываемыми уравнениями с монотонными операторами.</a>
+               <br>
+               <strong>Вороненко А.А.</strong>, 
+               <a href="/sites/cmc/files/docs/voronenko.pdf" target="_blank">О порождении ложных образов линейных k-значных функций.</a>
+               <br>
+               <strong>Никольский М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/nikolskiy.pdf" target="_blank">Об оптимальном управлении агрегированным производством с учетом загрязнения природы.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide3" class="hide" id="hide3">Выпуск №47, 2014г.</a> 
+              <a href="#show3" class="show" id="show3">Выпуск №47, 2014г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Комарова Е.С., Трофимов В.А., Федотов М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/komarova.pdf" target="_blank">Прохождение малопериодного фемтосекундного импульса оптически тонкой пластины.</a>
+               <br>
+               <strong>Гулин А.В., Морозова В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/gulin.pdf" target="_blank">О спектре нелокального разностного оператора с переменными коэффициентами.</a>
+               <br>
+               <strong>Васильев Г.П., Личман В.A., Песков Н.В., Семендяева Н.Л.</strong>, 
+               <a href="/sites/cmc/files/docs/peskov.pdf" target="_blank">Численное моделирование диффузии тепла и влаги в пористых материалах.</a>
+               <br>
+               <strong>Семендяева Н.Л., Кучанов С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/semendyaeva.pdf" target="_blank">Математическое моделирование RAFT-полимеризации.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Соловьева С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/soloveva.pdf" target="_blank">О численном решении обратной задачи для уравнения диффузии в случае сферической симметрии.</a>
+               <br>
+               <strong>Ирошников Н.Г., Ларичев А.В., Разгулин А.В., Старостин А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/iroshnikov.pdf" target="_blank">Об одном модифицированном биспектральном методе восстановления изображений в офтальмологии.</a>
+               <br>
+               <strong>Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_0.pdf" target="_blank">Обратные задачи оптики слоистых сред.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Подоприхин Д.А.</strong>, 
+               <a href="/sites/cmc/files/docs/podoprikhin.pdf" target="_blank">Реализация игры «лабиринт» средствами BCI</a>
+               <br>
+               <strong>Колмаков E.А. </strong>, 
+               <a href="/sites/cmc/files/docs/kolmakov.pdf" target="_blank">Метрическое обобщение алгоритмов классификации на основе анализа формальных понятий.</a>
+               <br>
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide5" class="hide" id="hide5">Выпуск №46, 2014г.</a> 
+              <a href="#show5" class="show" id="show5">Выпуск №46, 2014г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Киселёв Ю.Н., Аввакумов С.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/kiselevavvakumov.pdf" target="_blank">Обобщённая задача Чаплыгина: теоретический анализ и численные эксперименты.</a>
+               <br>
+               <strong>Васильев Г.П., Личман В.A., Песков Н.В., Семендяева Н.Л.</strong>, 
+               <a href="/sites/cmc/files/docs/vasilev..._semendyaeva.pdf" target="_blank">Учёт процессов замерзания/таяния поровой влаги в грунте при моделировании теплового режима термоскважин.</a>
+               <br>
+               <strong>Макеев А.Г., Семендяева Н.Л.</strong>, 
+               <a href="/sites/cmc/files/docs/makeevsemend.pdf" target="_blank">Гибридное моделирование процесса ассоциативной термодесорбции.</a>
+               <br>
+               <strong>Перевозчиков А.Г., Лесик И.А.</strong>, 
+               <a href="/sites/cmc/files/docs/perevozchikov_lesik.pdf" target="_blank">Нестационарная модель инвестиций в основные средства предприятия.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Каганов В.Ю., Королёв А.К., Крылов М.Н., Машечкин И.В., Петровский М.И.</strong>, 
+               <a href="/sites/cmc/files/docs/mashechkin.pdf" target="_blank">Методы машинного обучения в задачах аутентификации с использованием информации о динамике набора пароля на клавиатуре.</a>
+               <br>
+               <strong>Дъяконов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/dyakonov.pdf" target="_blank">Методы решения задач классификации с категориальными признаками.</a>
+               <br>
+               <strong>Романов Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/romanov.pdf" target="_blank">О проверяющих тестах для константных неисправностей на входах схемы счетчика четности.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide6" class="hide" id="hide6">Выпуск №45, 2014г.</a> 
+              <a href="#show6" class="show" id="show6">Выпуск №45, 2014г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Нефедов В.В., Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/nefedov_filippychev.pdf" target="_blank">Сравнение Методов Решения Уравения Пограничной Функции.</a>
+               <br>
+               <strong>Куркина Е.С., Куретова Е.Д., Ковалев В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_i_dr..pdf" target="_blank">О формировании тепловых структур в режиме с обострением во время солнечных вспышек.</a>
+               <br>
+               <strong>Базаров С.Б., Набоко И.М.</strong>, 
+               <a href="/sites/cmc/files/docs/bazarov_naboko.pdf" target="_blank">Численное моделирование распространения взрывной волны.</a>
+               <br>
+               <strong>Дмитриев В.И., Цзяньсюнь Ян</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_yan.pdf" target="_blank">О математическиой модели микросейсмического зондирования.</a>
+               <br>
+               <strong>Денисов А.М., Захаров Е.В., Калинин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/denisovzaharov_kalinin.pdf" target="_blank">Численное решение локализованной обратной задачи электрокардиографии.</a>
+               <br>
+               <strong>Бабин В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/babin.pdf" target="_blank">Формирование портфеля при логарифмической полезности потребления и ставке кокса-ингерсолла-росса.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Абакумов М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/abakumov.pdf" target="_blank">Метод построения разностных схем годуновского типа в криволинейных координатах и его применение для сферических координат.</a>
+               <br>
+               <strong>Будак Б.А., Ничипорчук А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/budak....pdf" target="_blank">Дискретный Экстраградиентный Метод С Переменной Метрикой Для Седловых Задач.</a>
+               <br>
+               <strong>Киселёв Ю.Н., Орлов С.М</strong>, 
+               <a href="/sites/cmc/files/docs/kiselevorlov.pdf" target="_blank">Исследование модифицированной модели «рост» с особыми режимами.</a>
+               <br>
+               <strong>Шалбузов К.Д.</strong>, 
+               <a href="/sites/cmc/files/docs/shalbuzov.pdf" target="_blank">О сравнении некоторых методов отсечения для задач целочисленного линейного программирования.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide10" class="hide" id="hide10">Выпуск №44, 2013г.</a> 
+              <a href="#show10" class="show" id="show10">Выпуск №44, 2013г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Оптимальное управление</strong>
+               <br>
+               <hr>
+               <strong>Анисимов А.В., Григоренко Н.Л., Лукьянова Л.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/anisimov_a.v.-4.pdf" target="_blank">Задача оптимального управления для односекторной модели экономического роста со смешанными ограничениями.</a>
+               <br>
+               <strong>Близорукова М.С., Капустян В.Е., Максимов В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/blizorukova_m.s.pdf" target="_blank">О применении методов управления по принципу обратной связи к исследованию двух эколого–экономических моделей.</a>
+               <br>
+               <strong>Дигас Б.В.</strong>, 
+               <a href="/sites/cmc/files/docs/digas-2013-dmitriev.pdf" target="_blank">Об исследовании модели merge при неточных данных.</a> 
+               <br>
+               <strong>Никольский М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/nikolskiy-2013-dmitriev.pdf" target="_blank">О свойстве регулярности оптимального по быстродействию управления.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Сурков П.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/surkov-2013-dmitriev.pdf" target="_blank">Асимптотики регуляризированных решений одной модели экономического роста с запаздыванием.</a>
+               <br>
+               <strong>Астафьев С.Б., Щедрин Б.М., Янусова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/astafev_s.b..pdf" target="_blank">Математический аппарат и программный комплекс bard для решения задач рефлектометрии тонких пленок.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Морозов В.В., Хижняк К.В.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_khizhnyak.pdf" target="_blank">Оценка стоимости бесконечного американского двустороннего опциона марграбе.</a>
+               <br>
+               <strong>Вороненко А.А., Кафтан Д.В.</strong>, 
+               <a href="/sites/cmc/files/docs/voronenko_2.pdf" target="_blank">О длине сертификата повторности в базисе всех функций ɩ переменных.</a>
+               <br>
+               <strong>Морозов Е.В.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_e.v.pdf" target="_blank">О единичных диагностических тестах относительно слипаний переменных в булевых функциях.</a> 
+               <br>
+               <strong>Соловьев А.И.</strong>, 
+               <a href="/sites/cmc/files/docs/soloviev.pdf" target="_blank">Частичное хеджирование платежных обязательств американского типа на дискретном рынке.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide11" class="hide" id="hide11">Выпуск №43, 2013г.</a> 
+              <a href="#show11" class="show" id="show11">Выпуск №43, 2013г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Гулин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/gulin_0.pdf" target="_blank">Границы устойчивости разностных схем в подпространствах.</a>
+               <br>
+               <strong>Лапонин В.С.</strong>, 
+               <a href="/sites/cmc/files/docs/laponin_0.pdf" target="_blank">Поиск солитонных решений в трехмерном уравнении Гросса-Питаевского.</a>
+               <br>
+               <strong>Абакумов М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/abakumov_0.pdf" target="_blank">Метод построения разностных схем годуновского типа в криволинейных координатах и его применение для цилиндрических координат.</a> 
+               <br>
+               <strong>Исаков В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/isakov.pdf" target="_blank">Применение квазиакустической схемы к решению многомерных задач газовой динамики.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Барашков И.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_barashkov.pdf" target="_blank">Математическое моделирование мобильных морских электромагнитных зондирований.</a>
+               <br>
+               <strong>Павельчак И.А.</strong>, 
+               <a href="/sites/cmc/files/docs/pavelchak.pdf" target="_blank">Численный метод определения локализованного начального возбуждения сердца для модели Алиева-Панфилова по измерениям на внутренней границе.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippichev.pdf" target="_blank">О решении одного сингулярного интегрального уравнения.</a> 
+               <br>
+               <strong>Мизотин М.М.</strong>, 
+               <a href="/sites/cmc/files/docs/mizotin.pdf" target="_blank">Детектирование границ с субпиксельной точностью для задачи определения поверхностного натяжения по профилю осесимметричной капли.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide12" class="hide" id="hide12">Выпуск №42, 2013г.</a> 
+              <a href="#show12" class="show" id="show12">Выпуск №42, 2013г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Лапонин В.С., Савенкова Н.П.</strong>, 
+               <a href="/sites/cmc/files/docs/laponin_1.pdf" target="_blank">Поиск 2-d солитонов в уравнении Гросса-Питаевского.</a>
+               <br>
+               <strong>Белолипецкий А.А., Малинина Е.А.</strong>, 
+               <a href="/sites/cmc/files/docs/belolipezkiy.pdf" target="_blank">Асимптотическое решение одной нелинейной смешанной задачи для уравнения диффузии с малым параметром при производной по времени.</a>
+               <br>
+               <strong>Широков И.А., Елизарова Т.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/shirokov.pdf" target="_blank">Прямое численное моделирование ламинарно-турбулентного перехода в слое вязкого сжимаемого газа.</a> 
+               <br>
+               <strong>Головина C.Г., Разборов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/golovina.pdf" target="_blank">О восстановлении линии разрыва кусочно-постоянного коэффициента в двумерной внутренней начально-краевой задаче для однородного уравнения теплопроводности.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Орлов М.В., Пучкова А.И.</strong>, 
+               <a href="/sites/cmc/files/docs/orlov.pdf" target="_blank">Оптимальные стратегии вылова в модели ведения рыбного хозяйства.</a>
+               <br>
+               <strong>Насонова А.А., Крылов А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/nasonova.pdf" target="_blank">Определение ширин границ изображения на основе нерезкого маскирования.</a>
+               <br>
+               <strong>Белов А.Г., Щедрин Б.М.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_0.pdf" target="_blank">Оценивание параметров линейной модели при разбиении регрессоров.</a> 
+               <br>
+               <strong>Николаев П.В.</strong>, 
+               <a href="/sites/cmc/files/docs/nikolaev.pdf" target="_blank">Модели подавления коррупции: роль морального уровня сотрудников.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide13" class="hide" id="hide13">Выпуск №41, 2012г.</a> 
+              <a href="#show13" class="show" id="show13">Выпуск №41, 2012г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Малахов К.В.</strong>, 
+               <a href="/sites/cmc/files/docs/malakhov.pdf" target="_blank">Сравнительный анализ методов регуляризации преобразования Радона в задачах томографии.</a>
+               <br>
+               <strong>Дмитриев В.И., Дмитриева И.В., Ингтем Ж.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_4.pdf" target="_blank">Интегральная форма сплайн-функции в задачах аппроксимации.</a>
+               <br>
+               <strong>Гаврилов С.В.</strong>, 
+               <a href="/sites/cmc/files/docs/gavrilov.pdf" target="_blank">Численный метод решения задачи электроимпедансной томографии в случае кусочно-постоянной проводимости и одного измерения на границе.</a> 
+               <br>
+               <strong>Ирошников Н.Г., Ларичев А.В., Потягалова А.А., Разгулин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/iroshnikov_0.pdf" target="_blank">Регуляризованный по Тихонову биспектральный вариационный метод восстановления оптических сигналов.</a> 
+               <br>
+               <strong>Чурбанов Д.В.</strong>, 
+               <a href="/sites/cmc/files/docs/churbanov.pdf" target="_blank">Численные методы восстановления параметров дипольных источников и примеры неединственности нахождения координат диполей.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Куркина Е.С., Аверчук Г.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina.pdf" target="_blank">Моделирование методом Монте-Карло колебательной динамики гетерогенной каталитической реакции с латеральными взаимодействиями.</a>
+               <br>
+               <strong>Григоренко Н.Л., Камзолкин Д.В., Лукьянова Л.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/grkamluk2012-dmitriev-4.pdf" target="_blank">Об одном классе моделей динамики экономических показателей производства и планирования инфраструктур.</a>
+               <br>
+               <strong>Бухман А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/bukhman.pdf" target="_blank">О распознавании функций, инвариантных относительно преобразования Мёбиуса, и четных функций, заданных в форме полиномов.</a> 
+               <br>
+               <strong>Романов Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/romanov_0.pdf" target="_blank">О тестах относительно перестановок переменных в булевых функциях.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide14" class="hide" id="hide14">Выпуск №40, 2012г.</a> 
+              <a href="#show14" class="show" id="show14">Выпуск №40, 2012г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Барашков И.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_barashkov_0.pdf" target="_blank">Математическое моделирование морских электромагнитных зондирований с использованием принципа взаимности.</a>
+               <br>
+               <strong>Павельчак И.А., Туйкина С.Р.</strong>, 
+               <a href="/sites/cmc/files/docs/pavelchak_tujikina.pdf" target="_blank">О численном решении одной обратной задачи для модифицированной математической модели Алиева-Панфилова.</a>
+               <br>
+               <strong>Павельчак И.А.</strong>, 
+               <a href="/sites/cmc/files/docs/pavelchak_0.pdf" target="_blank">Mетод численного решения задачи определения источника в модели Фитц-Хью–Нагумо.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Гулин А. В.</strong>, 
+               <a href="/sites/cmc/files/docs/gulin_1.pdf" target="_blank">Тестовые функции для нелокальных разностных схем.</a>
+               <br>
+               <strong>Морозов В.В., Хижняк К.В.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov.pdf" target="_blank">Верхняя оценка стоимости бесконечных американских опционов от суммы и разности двух активов.</a> 
+               <br>
+               <strong>Дмитриев В.И., Ингтем Ж.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_ingtem.pdf" target="_blank">Дифференцирование неточно заданной функции с помощью сплайн-аппроксимации.</a> 
+               <br>
+               <strong>Ятченко А.М., Крылов А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/jatchenko.pdf" target="_blank">Регуляризирующий метод восстановления фазы при ультразвуковом медицинском цветовом допплеровском картировании.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Павлович Е.Н., Братусь А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/pavlovich.pdf" target="_blank">Исключение доминируемых видов в открытых репликаторных системах.</a>
+               <br>
+               <strong>Селезнева С.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/selezneva.pdf" target="_blank">Нижняя оценка сложности нахождения полиномов булевых функций в классе схем с разделенными переменными.</a>
+               <br>
+               <strong>Машечкин А.И., Новикова Н.М.</strong>, 
+               <a href="/sites/cmc/files/docs/mashechkin_0.pdf" target="_blank">Дополнительный игрок в задаче о вето-голосовании.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide15" class="hide" id="hide15">Выпуск №39, 2011г.</a> 
+              <a href="#show15" class="show" id="show15">Выпуск №39, 2011г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Березина Н.И., Дмитриев В.И., Мерщикова Н.А.</strong>, 
+               <a href="/sites/cmc/files/docs/berezina.pdf" target="_blank">Квазиодномерный метод решения двумерной обратной задачи магнитотеллурического зондирования.</a>
+               <br>
+               <strong>Дмитриев В.И., Кругляков М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitrievkruglyakov.pdf" target="_blank">О квазитрехмерной задаче зондирования морского дна горизонтальным электрическим диполем.</a>
+               <br>
+               <strong>Дородницын Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dorodnicyn.pdf" target="_blank">Неотражающие граничные условия для одномерных задач динамики вязкого газа.</a> 
+               <br>
+               <strong>Куркина Е.С., Макеев А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_0.pdf" target="_blank">Математическое моделирование колебаний в химической реакции типа Лотки, происходящей на поверхности катализатора.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Морозов В. В., Хижняк К.В.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_0.pdf" target="_blank">Верхняя оценка стоимости бесконечного американского альтернативного опциона на два актива.</a>
+               <br>
+               <strong>Ложкин С.А., Данилов Б.Р.</strong>, 
+               <a href="/sites/cmc/files/docs/lozhkin-moskuvest_07-12-11_fin.pdf" target="_blank">О задержке схем из функциональных элементов в модели с произвольным распределением задержек элементов базиса по входам.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide16" class="hide" id="hide16">Выпуск №38, 2011г.</a> 
+              <a href="#show16" class="show" id="show16">Выпуск №38, 2011г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Барашков И.С.</strong>, 
+               <a href="/sites/cmc/files/docs/barashk_dmitr.pdf" target="_blank">Математическое моделирование электромагнитных морских зондирований трехмерной неоднородной среды.</a>
+               <br>
+               <strong>Лапонин В.С., Савенкова Н.П., Ильютко В.П.</strong>, 
+               <a href="/sites/cmc/files/docs/laponin_2.pdf" target="_blank">Численный метод поиска солитонных решений.</a>
+               <br>
+               <strong>Белов А.Г., Щедрин Б.М.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_1.pdf" target="_blank">Относительная эффективность МНК и МНМ оценок.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Куркина Е.С., Куретова Е.Д.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_1.pdf" target="_blank">Общие закономерности распределения городов по численности населения.</a>
+               <br>
+               <strong>Дмитриев В.И., Ингтем Ж.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/ingtem.pdf" target="_blank">О численном дифференцировании с помощью сплайн-функций.</a> 
+               <br>
+               <strong>Никольский И.М.</strong>, 
+               <a href="/sites/cmc/files/docs/nikolsky.pdf" target="_blank">Исследование влияния спектральных свойств матрицы СЛАУ на сходимость некоторых крыловских методов.</a> 
+               <br>
+               <strong>Онищенко А.А., Гуров С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/onishchenko.pdf" target="_blank">Классификация на основе АФП и бикластеризации: возможности подхода.</a> 
+               <br>
+               <strong>Уфимцев М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/ufimzev.pdf" target="_blank">Точечные источники параметров распределения Пойа порядка k.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide17" class="hide" id="hide17">Выпуск №37, 2011г.</a> 
+              <a href="#show17" class="show" id="show17">Выпуск №37, 2011г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Захаров Е.В., Калинин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharov.pdf" target="_blank">Метод вычисления вектора напряженности электрического поля на поверхности сердечной мышцы.</a>
+               <br>
+               <strong>Куркина Е.С., Семендяева Н.Л.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_2.pdf" target="_blank">Математическое моделирование пространственно-временных структур, возникающих в гетерогенной каталитической системе.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_5.pdf" target="_blank">О вторых производных объемного потенциала и интегральных уравнениях электродинамики.</a>
+               <br>
+               <strong>Богданов И.П.</strong>, 
+               <a href="/sites/cmc/files/docs/bogdanov.pdf" target="_blank">Математические методы вычисления экстремальных значений мощности в узлах электроэнергетических систем переменного тока.</a> 
+               <br>
+               <strong>Лукьяница А.А.</strong>, 
+               <a href="/sites/cmc/files/docs/lukyanitsa.pdf" target="_blank">Синтез изображений для автостереоскопических систем.</a> 
+               <br>
+               <strong>Павельчак И.А., Туйкина С.Р.</strong>, 
+               <a href="/sites/cmc/files/docs/pavelchak_1.pdf" target="_blank">Метод численного решения обратной задачи для модифицированной модели Фитц-Хью–Нагумо.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide18" class="hide" id="hide18">Выпуск №36, 2010г.</a> 
+              <a href="#show18" class="show" id="show18">Выпуск №36, 2010г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Батчиков П.С., Бочарова О.В., Лебедев М.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/batchikov.pdf" target="_blank">Течение в области хвостового взаимодействия сферически-симметричного и равномерного сверхзвуковых потоков газа.</a>
+               <br>
+               <strong>Горьков В.П., Андрианов В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/gorkov.pdf" target="_blank">Двумерная модель стрипового детектора с двумя туннельными переходами.</a> 
+               <br>
+               <strong>Елизарова Т.Г., Калачинская И.С., Милюкова О.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/elizarova.pdf" target="_blank">Математическое моделирование тепловой конвекции в 3D модели датчика конвекции “ДАКОН”.</a> 
+               <br>
+               <strong>Туйкина С.Р., Соловьева С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/tuiykina.pdf" target="_blank">О численном решении одной обратной задачи для двухмерной математической модели динамики сорбции.</a> 
+               <br>
+               <strong>Дмитриев В.И., Кругляков М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_kruglyakov.pdf" target="_blank">Математическое моделирование поля вертикального магнитного диполя в двумерной неоднородной среде.</a> 
+               <br>
+               <strong>Дмитриев В.И., Дмитриева И.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_6.pdf" target="_blank">Итерационный метод аналитического продолжения гравитационного поля.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Разгулин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/razgulin.pdf" target="_blank">Проекционно-разностный метод в задаче управляемой фурье-фильтрации.</a>
+               <br>
+               <strong>Романов Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/romanov_1.pdf" target="_blank">О диагностических тестах относительно локальных слипаний переменных в булевых функциях.</a> 
+               <br>
+               <strong>Морозов В.В., Муравей Д.Л.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_1.pdf" target="_blank">Нижняя оценка стоимости бесконечного американского альтернативного опциона на два актива.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide9" class="hide" id="hide9">Выпуск №35, 2010г.</a> 
+              <a href="#show9" class="show" id="show9">Выпуск №35, 2010г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Березина Н.И., Дмитриев В.И., Мерщикова Н.А.</strong>, 
+               <a href="/sites/cmc/files/docs/berezinadmitrievmershchikova_t.35.pdf" target="_blank">Квазиодномерный метод решения двумерной обратной задачи магнитотеллурического зондирования.</a>
+               <br>
+               <strong>Головина С.Г., Разборов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/golovina_razborov.pdf" target="_blank">Об определении внутренней границы области в двумерной начально-краевой задаче для уравнения теплопроводности.</a>
+               <br>
+               <strong>Кругляков М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/kruglyakov.pdf" target="_blank">Модифицированный метод интегральных токов в электродинамике неоднородных сред.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Обратные задачи и модели управления</strong>
+               <br>
+               <hr>
+               <strong>Дарьин А.Н., Минаева Ю.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/darin_minaeva.pdf" target="_blank">Аппроксимация импульсных управлений физически реализуемыми быстрыми управлениями.</a>
+               <br>
+               <strong>Аввакумов С.Н., Киселёв Ю.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/avvakumov_kiselev.pdf" target="_blank">Оптимальные законы управления для модели диффузии информации в социальной группе.</a>
+               <br>
+               <strong>Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_3.pdf" target="_blank">О решении эволюционных обратных задач.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide19" class="hide" id="hide19">Выпуск №34, 2010г.</a> 
+              <a href="#show19" class="show" id="show19">Выпуск №34, 2010г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Мерщикова Н.А.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitr_mersh.pdf" target="_blank">Математическое моделирование поля кабеля в двумерной неоднородной среде.</a>
+               <br>
+               <strong>Пасконов В.М., Морозов А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/paskonov_morozov.pdf" target="_blank">Суперкомпьютерное моделирование обтекания тел сложной формы вязкой несжимаемой жидкостью.</a>
+               <br>
+               <strong>Калинин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/kalinin.pdf" target="_blank">Итерационный алгоритм решения обратной задачи электрокардиографии для среды с кусочно-постоянным коэффициентом электропроводности.</a>
+               <br>
+               <strong>Барашков И.С., Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/barashk_dmitr_0.pdf" target="_blank">Математическое моделирование морских зондирований полем мощного удалённого источника при наличии сложной береговой линии.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Куркина Е.С., Симакова О.Е.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitr_kurkina.pdf" target="_blank">Математические модели анализа роста городов.</a>
+               <br>
+               <strong>Трофимов В.В., Трофимов В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/trofimov.pdf" target="_blank">Визуализация результатов компьютерного моделирования многомерного взаимодействия лазерного излучения с фотонным кристаллом.</a>
+               <br>
+               <strong>Вороненко А.А., Чистиков Д.В.</strong>, 
+               <a href="/sites/cmc/files/docs/voronenko_3.pdf" target="_blank">Расшифровка бесповторных функций оракулом – счетчиком четности.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide20" class="hide" id="hide20">Выпуск №33, 2009г.</a> 
+              <a href="#show20" class="show" id="show20">Выпуск №33, 2009г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Туйкина С.Р., Соловьева С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/tuykina-soloveva.pdf" target="_blank">О численном определении коэффициентов некоторых математических моделей неизотермической динамики сорбции.</a>
+               <br>
+               <strong>Киселёв Ю.Н., Аввакумов С.Н., Орлов М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/kisavvorl2009.pdf" target="_blank">Задача оптимального распределения ресурсов в двухсекторной экономической модели с особыми режимами.</a>
+               <br>
+               <strong>Головина C.Г., Разборов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/golovina_razborov_0.pdf" target="_blank">Об определении границы двумерной области по решению внешней начально-краевой задачи для уравнения теплопроводности.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Андрушевский Н.М., Горьков В.П., Щедрин Б.М.</strong>, 
+               <a href="/sites/cmc/files/docs/andrushevskiy.pdf" target="_blank">Метод мнимого атома для восстановления пространственной структуры наночастиц.</a>
+               <br>
+               <strong>Трофимов В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/trofimov_0.pdf" target="_blank">Визуализация результатов математической информационной системы идентификации вещества на основе воздействия малопериодного терагерцового импульса.</a>
+               <br>
+               <strong>Бубнов С.Е., Вороненко А.А., Чистиков Д.В.</strong>, 
+               <a href="/sites/cmc/files/docs/bubnov.pdf" target="_blank">Некоторые оценки длин тестов для бесповторных функций в базисе {&amp;, v}.</a>
+               <br>
+               <strong>Дмитриев В.И., Ингтем Ж.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/ingtem_0.pdf" target="_blank">Двумерный сплайн с минимальной производной.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide21" class="hide" id="hide21">Выпуск №32, 2009г.</a> 
+              <a href="#show21" class="show" id="show21">Выпуск №32, 2009г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Белолипецкий А.А., Малинина Е.А., Семёнов К.О.</strong>, 
+               <a href="/sites/cmc/files/docs/belol_mal.pdf" target="_blank">Математическая модель деградации топливного слоя при нагревании лазерной мишени тепловым излучением в рабочей камере реактора.</a>
+               <br>
+               <strong>Барашков И.С., Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/baraskov.pdf" target="_blank">Математическое моделирование электромагнитного поля удалённых источников в неоднородной среде.</a>
+               <br>
+               <strong>Кругляков М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/kruglyakov_0.pdf" target="_blank">Оценка зоны вляния вертикального магнитного диполя в задачах аэроразведки.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Васин А.А., Шаманаев А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/vasin_sham.pdf" target="_blank">Равновесия Курно в модели двухузлового рынка однородного товара.</a>
+               <br>
+               <strong>Куретова Е.Д., Куркина Е.С.</strong>, 
+               <a href="/sites/cmc/files/docs/kuretova.pdf" target="_blank">Математическое моделирование общих законов пространственно-временного развития общества: гиперболический тренд и исторические циклы.</a>
+               <br>
+               <strong>Лапонин В.С.</strong>, 
+               <a href="/sites/cmc/files/docs/laponin_3.pdf" target="_blank">Кэш-независимые алгоритмы.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide23" class="hide" id="hide23">Выпуск №31, 2009г.</a> 
+              <a href="#show23" class="show" id="show23">Выпуск №31, 2009г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Никольский И.М.</strong>, 
+               <a href="/sites/cmc/files/docs/nikolskiy_0.pdf" target="_blank">Неограниченные решения одного нелинейного параболического уравнения.</a>
+               <br>
+               <strong>Куркина Е.С., Никольский И.М.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_4.pdf" target="_blank">Устойчивость и локализация неограниченных решений нелинейного уравнения теплопроводности на плоскости.</a>
+               <br>
+               <strong>Петрова Л.И.</strong>, 
+               <a href="/sites/cmc/files/docs/petrova.pdf" target="_blank">Соотношения между скачками производных на характеристиках и траекториях.</a>
+               <br>
+               <strong>Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_8.pdf" target="_blank">Математическое моделирование влияния ионосферы на электромагнитное зондирование.</a>
+               <br>
+               <strong>Белов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_2.pdf" target="_blank">МНК-оценки параметров линейной парной конфлюэнтной модели.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov.pdf" target="_blank">Оптимизационный метод нахождения индекса силы игрока в весовых системах голосования.</a>
+               <br>
+               <strong>Машечкин А.И., Поспелова И.И.</strong>, 
+               <a href="/sites/cmc/files/docs/mashechkin_1.pdf" target="_blank">Свойства голосования с правом вето.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide24" class="hide" id="hide24">Выпуск №30, 2008г.</a> 
+              <a href="#show24" class="show" id="show24">Выпуск №30, 2008г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Захаров Е.В., Никитина Е.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_7.pdf" target="_blank">Тензорные функции Грина для осесимметричных моделей морских магнитотеллурических зондирований локально-неоднородных слоистых сред.</a>
+               <br>
+               <strong>Головина С.Г., Разборов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/golovina_1.pdf" target="_blank">О восстановлении неизвестной границы в смешанной задаче для уравнения теплопроводности.</a>
+               <br>
+               <strong>Деянов Р.З., Щедрин Б.М., Бурова Е.М.</strong>, 
+               <a href="/sites/cmc/files/docs/deyanov_i_dr..pdf" target="_blank">Детерминированный метод регуляризации в задаче выделения линии фона при обработке экспериментальных данных.</a>
+               <br>
+               <strong>Захаров Е.В., Калинин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharov_0.pdf" target="_blank">Алгоритмы расчета и численный анализ полей постоянных токов в кусочно-однородной среде методом граничных интегральных уравнений.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Деянов Р.З., Щедрин Б.М.</strong>, 
+               <a href="/sites/cmc/files/docs/deyanov_shchedrin.pdf" target="_blank">Алгоритм последовательного спуска по системе локальных минимумов.</a>
+               <br>
+               <strong>Жулин С.С.</strong>, 
+               <a href="/sites/cmc/files/docs/zhulin.pdf" target="_blank">Метод продолжения по параметру с коррекцией и его приложения.</a>
+               <br>
+               <strong>Кесман К., Максимов В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/kesman.pdf" target="_blank">О реконструкции неизвестных характеристик в одной системе третьего порядка.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide25" class="hide" id="hide25">Выпуск №29, 2008г.</a> 
+              <a href="#show25" class="show" id="show25">Выпуск №29, 2008г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Т.М. Лысак, В.А. Трофимов</strong>, 
+               <a href="/sites/cmc/files/docs/lysak.pdf" target="_blank">О возможности реализации высокой эффективности ГВГ последовательности лазерных импульсов случайной пиковой интенсивности. Часть III. Распространение импульсов в объеме среды.</a>
+               <br>
+               <strong>В.И. Дмитриев, Н.А. Мерщикова</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_9.pdf" target="_blank">Математические модели морских магнитотеллурических зондирований.</a>
+               <br>
+               <strong>B.И. Дмитриев, А.А. Канцель, Е.С. Куркина, Н.В. Песков</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_kancel_i_dr..pdf" target="_blank">Двумерная задача о фильтрации растворов в неоднородной пористой среде.</a>
+               <br>
+               <strong>C.Р. Туйкина, С.И. Соловьева</strong>, 
+               <a href="/sites/cmc/files/docs/tuykina_0.pdf" target="_blank">О численном решении одной обратной задачи неизотермической динамики сорбции.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>А.В. Гулин, А.Ю. Мокин</strong>, 
+               <a href="/sites/cmc/files/docs/gulin_2.pdf" target="_blank">Об устойчивости семейства разностных схем с весами.</a>
+               <br>
+               <strong>Е.Д. Куретова, Е.С. Куркина</strong>, 
+               <a href="/sites/cmc/files/docs/kuretova_0.pdf" target="_blank">Режимы с обострением в задаче для нелинейного уравнения теплопроводности на отрезке малой длины.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide26" class="hide" id="hide26">Выпуск №28, 2008г.</a> 
+              <a href="#show26" class="show" id="show26">Выпуск №28, 2008г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Т.М. Лысак, В.А. Трофимов</strong>, 
+               <a href="/sites/cmc/files/docs/lysak_0.pdf" target="_blank">О возможности реализации высокой эффективности ГВГ последовательности лазерных импульсов случайной пиковой интенсивности. Часть II. Подавление флуктуаций интенсивности в среде с квадратичной нелинейностью.</a>
+               <br>
+               <strong>С.Р. Туйкина</strong>, 
+               <a href="/sites/cmc/files/docs/tuykina_1.pdf" target="_blank">О численном определении изотермы сорбции в случае неизотермической сорбции.</a>
+               <br>
+               <strong>Ю.Н. Садков</strong>, 
+               <a href="/sites/cmc/files/docs/sadkov.pdf" target="_blank">Осесимметрические вращающиеся струйные течения.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>В.И. Дмитриев, Е.С. Куркина</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_10.pdf" target="_blank">Математическое моделирование демографических процессов.</a>
+               <br>
+               <strong>В.В. Морозов, Д.Л. Муравей</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_3.pdf" target="_blank">Стоимость опциона “lоокbаск” как решение краевой задачи для уравнения теплопроводности.</a>
+               <br>
+               <strong>К.С. Сорокин</strong>, 
+               <a href="/sites/cmc/files/docs/sorokin.pdf" target="_blank">Гарантированное по исходам и рискам решение одной многокритериальной динамической задачи.</a>
+               <br>
+               <strong>А.Г. Белов, М.В. Уфимцев</strong>, 
+               <a href="/sites/cmc/files/docs/belov_3.pdf" target="_blank">Точечные оценки параметров распределения Неймана порядка к.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide27" class="hide" id="hide27">Выпуск №27, 2007г.</a> 
+              <a href="#show27" class="show" id="show27">Выпуск №27, 2007г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Лысак Т.М., Трофимов В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/lysak_1.pdf" target="_blank">О возможности реализации высокой эффективности гвг последовательности лазерных импульсов случайной пиковой интенсивности.</a>
+               <br>
+               <strong>Дородницын Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dorodnicyn_0.pdf" target="_blank">Аналитическое и численное исследование спектров трехточечных разностных операторов.</a>
+               <br>
+               <strong>Дмитриев В.И., Захаров Е.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_11.pdf" target="_blank">Трехмерные модели морских магнитотеллурических зондирований неоднородных сред.</a>
+               <br>
+               <strong>Захаров Е.В., Никитина Е.В.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharov_1.pdf" target="_blank">Осесимметричные модели морских магнитотеллурических зондирований локально-неоднородных слоистых сред.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Задачи управления</strong>
+               <br>
+               <hr>
+               <strong>Лебедев П.Д., Успенский А.А.</strong>, 
+               <a href="/sites/cmc/files/docs/lebedev.pdf" target="_blank">Аналитическое и численное конструирование функции оптимального результата для одного класса задач быстродействия.</a>
+               <br>
+               <strong>Киселёв Ю.Н., Аввакумов С.Н., Орлов М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/kiselyov.pdf" target="_blank">Построение в аналитической форме оптимального управления и множеств достижимости в одной задаче распределения ресурсов.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide28" class="hide" id="hide28">Выпуск №26, 2007г.</a> 
+              <a href="#show28" class="show" id="show28">Выпуск №26, 2007г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Канцель А.А., Куркина Е.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_i_dr..pdf" target="_blank">Математическое моделирование процессов инфильтрационного метасоматоза в пористой среде.</a>
+               <br>
+               <strong>Волошин В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/voloshin.pdf" target="_blank">Моделирование акустических эффектов, возникающих в полостях рисунка протектора шин автомобиля в ближнем поле.</a>
+               <br>
+               <strong>Дмитриев В.И., Кругляков М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_kruglyakov_0.pdf" target="_blank">О быстром методе вычисления поля вертикального магнитного диполя над слоистой средой.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev.pdf" target="_blank">Применение метода дуального оператора к уравнению, описывающему поведение пограничной функции.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Воробьев Ф.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/vorobev.pdf" target="_blank">О структуре множества выполняющих наборов случайной к-КНФ.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide29" class="hide" id="hide29">Выпуск №25, 2007г.</a> 
+              <a href="#show29" class="show" id="show29">Выпуск №25, 2007г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Трофимов В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/trofimov_1.pdf" target="_blank">Пакет программ для компьютерного моделирования процесса генерации второй гармоники в трёхмерном случае и визуализации его результатов в среде Windows.</a>
+               <br>
+               <strong>Ильинский А.С., Галишникова Т.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/ilinskiy.pdf" target="_blank">Рассеяние электромагнитного поля на конечном импедансном участке границы раздела сред.</a>
+               <br>
+               <strong>Морозов В.В., Калядина Т.В.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_4.pdf" target="_blank">О модели Грина разрушения цилиндрических вихрей.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_2.pdf" target="_blank">Упорядочение игроков по "силе" в весовых системах голосования: метод мультиотношений.</a>
+               <br>
+               <strong>Белов А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_4.pdf" target="_blank">Эффективность метода четных частот для оценивания параметров трехпараметрического сложного пуассоновского распределения.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide30" class="hide" id="hide30">Выпуск №24, 2006г.</a> 
+              <a href="#show30" class="show" id="show30">Выпуск №24, 2006г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Куркина Е.С., Никольский И.М.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_6.pdf" target="_blank">Исследование нелинейного уравнения теплопроводности с квадратичным.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_1.pdf" target="_blank">Уравнение пограничной функции и его численное решение.</a>
+               <br>
+               <strong>Борисенко Г.В.</strong>, 
+               <a href="/sites/cmc/files/docs/borisenko.pdf" target="_blank">Численное решение краевой задачи для нелинейного уравнения диффузии, возникающей при обработке изображений.</a> 
+               <br>
+               <strong>Белов А.Г.‚ Галкин В.Я.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_5.pdf" target="_blank">Асимптотическая эффективность метода моментов оценивания сложного пуассоновского распределения.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Елизарова Т.Г., Жериков А.В., Калачинская И.С.</strong>, 
+               <a href="/sites/cmc/files/docs/elizarova_0.pdf" target="_blank">Численное решение квазигидродинамических уравнений на треугольных сетках.</a>
+               <br>
+               <strong>Дородницын Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dorodnicyn_1.pdf" target="_blank">Искусственные граничные условия для двумерных уравнений газовой динамики.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide31" class="hide" id="hide31">Выпуск №23, 2006г.</a> 
+              <a href="#show31" class="show" id="show31">Выпуск №23, 2006г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Макеев А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/makeev.pdf" target="_blank">Применение метоца регуляризации Тихонова для решения обратных задач для двух молелей популяции.</a>
+               <br>
+               <strong>Туйкина С.Р.</strong>, 
+               <a href="/sites/cmc/files/docs/tuykina_2.pdf" target="_blank">Обратные задачи для одной математической модели редокс-сорбции.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_2.pdf" target="_blank">Численное решение дифференциального уравнения, описывающего поведение пограничной функции нулевого порядка.</a> 
+               <br>
+               <strong>Лукшин А.В., Резник Б.И.</strong>, 
+               <a href="/sites/cmc/files/docs/lukshin.pdf" target="_blank">Единственность решения обратной задачи для уравнения теплопроводности с нелокальными краевыми условиями.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_3.pdf" target="_blank">Символическая динамика и суперигры.</a>
+               <br>
+               <strong>Вороненко А.А.</strong>, 
+               <a href="/sites/cmc/files/docs/voronenko_4.pdf" target="_blank">Распознавание бесповторности в произвольном базисе.</a>
+               <br>
+               <strong>Уфимцев М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/ufimcev.pdf" target="_blank">Распределение Неймана порядка k и некоторые его свойства.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Ильютко В.П.</strong>, 
+               <a href="/sites/cmc/files/docs/ilyutko.pdf" target="_blank">Границы спектра разностного оператора Лапласа в непрямоугольных областях.</a>
+               <br>
+               <strong>Белов А.Г., Галкин В.Я.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_6.pdf" target="_blank">Итерационный алгоритм восстановления сигнала с ограничениями.</a>
+               <br>
+               <strong>Крылов А.С., Наджафи Мохсен</strong>, 
+               <a href="/sites/cmc/files/docs/krylov.pdf" target="_blank">Проекционный метод нахождения границ изображений.</a> 
+               <br>
+               <strong>Гулин А.В., Ионкин Н.И., Морозова В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/gulin_3.pdf" target="_blank">Устойчивость нелокальных разностных схем по правой части.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide32" class="hide" id="hide32">Выпуск №22, 2005г.</a> 
+              <a href="#show32" class="show" id="show32">Выпуск №22, 2005г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Белкин П.С., Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/belkin.pdf" target="_blank">О квазиодномерном методе решения двумерной обратной задачи магнитотеллурического зондирования.</a>
+               <br>
+               <strong>Карцев К.А.</strong>, 
+               <a href="/sites/cmc/files/docs/karcev.pdf" target="_blank">Задача доплеровской томографии для моделей вихря.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Сафонов В.Н., Трофимов В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/safonov.pdf" target="_blank">О возможности параметрической генерации четных гармоник поляризации в кубично нелинейном слое.</a>
+               <br>
+               <strong>Куркина Е.С., Никольский И.М.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_5.pdf" target="_blank">Бифуркационный анализ спектра двумерных тепловых структур, развивающихся в режиме с обострением.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_0.pdf" target="_blank">Применение формализма дуального оператора для получения пограничной функции нулевого порядка уравнения плазма-слой.</a>
+               <br>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_0.pdf" target="_blank">Динамический подход к решению игр с переговорами.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide33" class="hide" id="hide33">Выпуск №21, 2005г.</a> 
+              <a href="#show33" class="show" id="show33">Выпуск №21, 2005г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Головина С.Г., Денисов А.М., Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/golovina_2.pdf" target="_blank">Об обратной задаче определения зон малой проницаемости в нефтяном пласте.</a>
+               <br>
+               <strong>Соловьева С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/soloveva_0.pdf" target="_blank">О численном решении одной обратной задачи для полулинейной гиперболической системы.</a>
+               <br>
+               <strong>Астафьев С.Б., Щедрин Б.М., Янусова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/astafev.pdf" target="_blank">Решение обратной задачи восстановления строения пленки по данным рефлектометрии.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Канцель А.А., Куркина Е.С.</strong>, 
+               <a href="/sites/cmc/files/docs/kancel.pdf" target="_blank">Моделирование процессов растворения в фильтрационном потоке жидкости.</a>
+               <br>
+               <strong>Лебедев М.Г., Ситник В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/lebedev_0.pdf" target="_blank">Моделирование взаимодействия волнового фронта с массивом растительности.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_1.pdf" target="_blank">Стационарные стратегии в многошаговой игре "дилемма заключенного".</a>
+               <br>
+               <strong>Ложкин С.А., Кондратов А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/lozhkin.pdf" target="_blank">Асимптотические оценки высокой степени точности для сложности реализации систем функций итеративными контактными схемами.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide34" class="hide" id="hide34">Выпуск №20, 2005г.</a> 
+              <a href="#show34" class="show" id="show34">Выпуск №20, 2005г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Давыдов А.Г., Захаров Е.В., Пименов Ю.В.</strong>, 
+               <a href="/sites/cmc/files/docs/davydov.pdf" target="_blank">О гиперсингулярных интегральных уравнениях в задачах дифракции электромагнитных волн на однородных магнитодиэлектрических телах.</a>
+               <br>
+               <strong>Чернокожин Е.В.</strong>, 
+               <a href="/sites/cmc/files/docs/chernokozhin.pdf" target="_blank">Решение задачи синтеза нерассеивающей цилиндрической структуры.</a>
+               <br>
+               <strong>Лебедев М.Г., Ситник В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/lebedev_1.pdf" target="_blank">К расчету течений сжимаемого газа с бесконечными градиентами скорости и давления.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_3.pdf" target="_blank">Численное моделирование плазмы космического пространства с учетом эффекта Холла: неустойчивости Кельвина-Гельмгольца и Рэлея-Тейлора.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Пулин Д.С., Разгулин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/pulin.pdf" target="_blank">Оптимизация подавления искажений для одного класса нелинейных оптических систем с обратной связью.</a>
+               <br>
+               <strong>Туйкина С.Р.</strong>, 
+               <a href="/sites/cmc/files/docs/tuykina_3.pdf" target="_blank">О численном решении одной обратной задачи ионообмена в случае смешанной кинетики.</a>
+               <br>
+               <strong>Мельников Г.Ю.,</strong>, 
+               <a href="/sites/cmc/files/docs/melnikov.pdf" target="_blank">Об одном алгоритме решения прямых и обратных ЗD-задач вертикального сейсмопрофилирования.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide35" class="hide" id="hide35">Выпуск №19, 2004г.</a> 
+              <a href="#show35" class="show" id="show35">Выпуск №19, 2004г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Андрианов В.А., Горьков В.П.</strong>, 
+               <a href="/sites/cmc/files/docs/andrianov.pdf" target="_blank">Диффузионная модель детекторов на основе сверхпроводящих туннельных переходов.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_4.pdf" target="_blank">Метод пограничных функций для получения асимптотического решения уравнения плазма-слой.</a>
+               <br>
+               <strong>Дрожжина О.В., Щеглов А.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/drozhzhina.pdf" target="_blank">Приближенное решение задачи Коши для гиперболического уравнения с нелинейным источником.</a>
+               <br>
+               <strong>Бурова Е.М., Щедрин Б.М.</strong>, 
+               <a href="/sites/cmc/files/docs/burova.pdf" target="_blank">Математически корректная постановка задачи рентгеновского фазового анализа порошковых материалов.</a>
+               <br>
+               <strong>Елизарова Т.Г., Калачинская И.С., Милюкова О.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/elizarova_1.pdf" target="_blank">Влияние квазистатической компоненты микроускорений на режимы термокапиллярных течений.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Волошин С.А.</strong>, 
+               <a href="/sites/cmc/files/docs/voloshin_0.pdf" target="_blank">О сходимости монотонных конечно-разностных аппроксимаций квазилинейного закона сохранения.</a>
+               <br>
+               <strong>Белов А.Г., Галкин В.Я., Уфимцев М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_7.pdf" target="_blank">Сложный закон Пуассона с обобщающим отрицательным биномиальным распределением.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_4.pdf" target="_blank">Использование метода мультиотношений для прогнозирования структуры связей в социальных сетях.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide36" class="hide" id="hide36">Выпуск №18, 2004г.</a> 
+              <a href="#show36" class="show" id="show36">Выпуск №18, 2004г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Белкин П.С., Мерщикоеа Н.А.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_12.pdf" target="_blank">Метод интегральных уравнений в моделировании двумерных задач геоэлектрики.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_5.pdf" target="_blank">Численное моделирование плазмы космического пространства с учетом эффекта Холла: процесс пересоединения магнитных силовых линий.</a>
+               <br>
+               <strong>Елизарова Т.Г., Широков И.А.</strong>, 
+               <a href="/sites/cmc/files/docs/elizarova_2.pdf" target="_blank">Численное моделирование ударной волны в аргоне, гелии и азоте.</a>
+               <br>
+               <strong>Баев А.Ж., Облоухов А.О.</strong>, 
+               <a href="/sites/cmc/files/docs/baev.pdf" target="_blank">Диссипативные граничные условия разностных задач теории упругости.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_5.pdf" target="_blank">Упорядочение страниц по информации о взаимных цитированиях.</a>
+               <br>
+               <strong>Гуров С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/gurov.pdf" target="_blank">Алгоритм получения разложения Э.Н. Гильберта и его реализация для задачи синтеза схем.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide37" class="hide" id="hide37">Выпуск №17, 2004г.</a> 
+              <a href="#show37" class="show" id="show37">Выпуск №17, 2004г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математические методы</strong>
+               <br>
+               <hr>
+               <strong>Денисов А.М., Соловьева С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/denisov.pdf" target="_blank">Итерационный метод решения обратной задачи для квазилинейного гиперболического уравнения.</a>
+               <br>
+               <strong>Березин С.Б., Пасконов В.М.</strong>, 
+               <a href="/sites/cmc/files/docs/berezin.pdf" target="_blank">Неклассические решения классической задачи о течении вязкой несжимаемой жидкости в плоском канале.</a>
+               <br>
+               <strong>Борханифар А., Волков А.Г., Трофимов В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/borhanifar.pdf" target="_blank">Разностная схема для задачи трехчастотного взаимодействия фемтосекундных импульсов в условиях дисперсии ее нелинейного отклика.</a>
+               <br>
+               <strong>Теплов А.Е.</strong>, 
+               <a href="/sites/cmc/files/docs/teplov.pdf" target="_blank">Математическая модель биосинтеза каучука.</a>
+               <br>
+               <strong>Хоффманн К., Попов А.М., Певцов С.Е., Федулова И.А.</strong>, 
+               <a href="/sites/cmc/files/docs/hoffmann.pdf" target="_blank">Моделирование пространственно-временной электрической активности нейронных источников.</a>
+               <br>
+               <strong>Гулин А.В., Ионкин Н.И., Морозова В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/gulin_4.pdf" target="_blank">Об устойчивости нелокальных разностных задач.</a>
+               <br>
+               <strong>Куркина Е.С.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_7.pdf" target="_blank">Двумерные и трехмерные тепловые структуры в среде с нелинейной теплопроводностью.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Гуров С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/gurov_0.pdf" target="_blank">Оценки надёжности алгоритмов классификации. III. Интегральные оценки.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide38" class="hide" id="hide38">Выпуск №16, 2004г.</a> 
+              <a href="#show38" class="show" id="show38">Выпуск №16, 2004г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математические методы</strong>
+               <br>
+               <hr>
+               <strong>Ламос Г., Гузман Г., Рейес Е.</strong>, 
+               <a href="/sites/cmc/files/docs/lamos.pdf" target="_blank">Обратная задача для математической модели процесса динамики сорбции.</a>
+               <br>
+               <strong>Дмитриев В.И., Егоров И.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_13.pdf" target="_blank">Численное моделирование электромагнитного поля на поверхности протяженных проводников, погруженных в проводящую среду.</a>
+               <br>
+               <strong>Куркина Е.С.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_8.pdf" target="_blank">Исследование спектра автомодельных решений нелинейного уравнения теплопроводности.</a>
+               <br>
+               <strong>Захаров Е.В., Рахмани Д.В.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharov_2.pdf" target="_blank">Численный анализ кровоснабжения миокарда на графе эластичных сосудов.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Информатика</strong>
+               <br>
+               <hr>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_6.pdf" target="_blank">Методы символической динамики и проблема моделирования поиска информации в Интернете.</a>
+               <br>
+               <strong>Гуров С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/gurov_1.pdf" target="_blank">Оценки надёжности алгоритмов классификации. II. Точечные байесовские оценки.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide39" class="hide" id="hide39">Выпуск №15, 2003г.</a> 
+              <a href="#show39" class="show" id="show39">Выпуск №15, 2003г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Сальников Р.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_14.pdf" target="_blank">Итерационный метод решения интегральных уравнений первого рода.</a>
+               <br>
+               <strong>Ильинский А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/ilinskiy_0.pdf" target="_blank">Обоснование спектрального метода расчета постоянных распространения волноводов, микрополосковых и щелевых линийу.</a>
+               <br>
+               <strong>Разгулин А.В., Саввина С.С.</strong>, 
+               <a href="/sites/cmc/files/docs/razgulin_0.pdf" target="_blank">О численной оптимизации двумерного преобразования аргументов в функциональнодифференциальном уравнении диффузии.</a>
+               <br>
+               <strong>Садков Ю.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/sadkov_0.pdf" target="_blank">Численное моделирование сверхзвуковых осесимметричных газовых струй.</a>
+               <br>
+               <strong>Алаторцев А.В., Кузьмин Р.Н., Проворова О.Г., Савенкова Н.П.</strong>, 
+               <a href="/sites/cmc/files/docs/alatorcev.pdf" target="_blank">Математическое моделирование магнитногидродинамических процессов в алюминиевом электролизёре.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Статистические модели</strong>
+               <br>
+               <hr>
+               <strong>Гуров С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/gurov_2.pdf" target="_blank">Оценки надёжности алгоритмов классификации. I. Введение в проблему. Точечные частотные оценки.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide40" class="hide" id="hide40">Выпуск №14, 2003г.</a> 
+              <a href="#show40" class="show" id="show40">Выпуск №14, 2003г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Ингтем Ж.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_15.pdf" target="_blank">Использование сплайн аппроксимации при решении интегрального уравнения первого рода.</a>
+               <br>
+               <strong>Давыдов А.Г., Захаров Е.В., Пименов Ю.В.</strong>, 
+               <a href="/sites/cmc/files/docs/davydov_0.pdf" target="_blank">О некоторых вычислительных аспектах применения метода гиперсингулярных интегральных уравнений в электродинамике.</a>
+               <br>
+               <strong>Важенцев А.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/vazhencev.pdf" target="_blank">Проблема внешнего эллипсоидального оценивания объединения двух концентрических эллипсоидов и ее приложения.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_6.pdf" target="_blank">Численное моделирование уравнения плазма- слой с использованием сгущающейся сетки.</a>
+               <br>
+               <strong>Туйкина С.Р., Соловьева С.И.</strong>, 
+               <a href="/sites/cmc/files/docs/tuykina_4.pdf" target="_blank">О численном определении двух характеристик ионита в случае его сжимаемости.</a>
+               <br>
+               <strong>Елизарова Т.Л, Шеретов Ю.В., Широков И.А.</strong>, 
+               <a href="/sites/cmc/files/docs/elizarova_sheretov.pdf" target="_blank">Подавление термокапиллярной конвекции в цилиндрическом образце магнитным полем.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide41" class="hide" id="hide41">Выпуск №13, 2003г.</a> 
+              <a href="#show41" class="show" id="show41">Выпуск №13, 2003г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Баев А.В., Куценко Н.В.</strong>, 
+               <a href="/sites/cmc/files/docs/baev_0.pdf" target="_blank">Решение обратной обобщенной задачи вертикального сейсмопрофилирования.</a>
+               <br>
+               <strong>Доровских И.В., Щеглов А.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/dorovskih.pdf" target="_blank">Некоторые вычислительные аспекты обработки и классификации наблюдений при исследовании психических нарушений в острый период сотрясения головного мозга.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Куркина Е.С., Куретова Е.Д.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_9.pdf" target="_blank">Численное исследование явления синхронизации связанных химических осцилляторов.</a>
+               <br>
+               <strong>Елизарова Т.Г., Жериков А.В., Калачинская И.С., Шеретов Ю.В.</strong>, 
+               <a href="/sites/cmc/files/docs/elizarova_3.pdf" target="_blank">Численное моделирование конвективных течений электропроводной жидкости в каверне.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_7.pdf" target="_blank">Гибридное моделирование плазмы космического пространства: модели с представлением электронов в виде безмассовой жидкости. 6. Токовые слои геомагнитного хвоста.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide42" class="hide" id="hide42">Выпуск №12, 2002г.</a> 
+              <a href="#show42" class="show" id="show42">Выпуск №12, 2002г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Барашков А.С., Белкин П.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_16.pdf" target="_blank">Метод интегральных уравнений в обратных задачах электромагнитных зондирований.</a>
+               <br>
+               <strong>Дрожжина О.В.</strong>, 
+               <a href="/sites/cmc/files/docs/drozhzhina_0.pdf" target="_blank">О численном определении нелинейной правой части уравнения параболического типа в рамках обратной задачи.</a>
+               <br>
+               <strong>Горохов А.А., Крылов А.С., Благонравов Л.А., Сковородько С.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/gorohov.pdf" target="_blank">Вычислительная диагностика температурных зависимостей структуры жидких металлов.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Егоров И.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_egorov.pdf" target="_blank">Метод интегральных уравнений в задаче влияния электромагнитного поля на протяженные проводники.</a>
+               <br>
+               <strong>Малых М.Д.</strong>, 
+               <a href="/sites/cmc/files/docs/malyh.pdf" target="_blank">Спектральные характеристики волноведущих систем.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_8.pdf" target="_blank">Численное моделирование усилителя на релятивистском электронном пучке в цилиндрическом волноводе с плазменно-диэлектрическим заполнением с применением сгущающихся сеток.</a>
+               <br>
+               <strong>Калядина Т.В., Морозов В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/kalyadina.pdf" target="_blank">О вычислении радиуса опасной зоны вокруг вихря.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Гулин А.В., Морозова В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/gulin_5.pdf" target="_blank">Об одной нелокальной разностной краевой задаче.</a>
+               <br>
+               <strong>Широков И.А.</strong>, 
+               <a href="/sites/cmc/files/docs/shirokov_0.pdf" target="_blank">Итерационный метод решения уравнения Пуассона и его реализация на многопроцессорной вычислительной системе.</a>
+               <br>
+               <strong>Белов А.Г., Галкин В.Я.</strong>, 
+               <a href="/sites/cmc/files/docs/belov_8.pdf" target="_blank">Моментные характеристики сложного Пуассона с обобщающим биномиальным распределением.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide43" class="hide" id="hide43">Выпуск №11, 2002г.</a> 
+              <a href="#show43" class="show" id="show43">Выпуск №11, 2002г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Арделян Н.В., Саблин М.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/ardelyan.pdf" target="_blank">Операторная сеточная аппроксимация задач двумерной газовой динамики в подвижных координатах на нерегулярной треугольной сетке.</a>
+               <br>
+               <strong>Дородницын Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dorodnicyn_2.pdf" target="_blank">Неотражающие граничные условия для газодинамических задач в нелинейной постановке.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_9.pdf" target="_blank">Аппроксимация второго порядка радиальной части оператора Лапласа на сгущающихся сетках.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Захаров Е.В., Дмитриева И.В., Шарипов М.А.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharov_3.pdf" target="_blank">Метод конгруэнтных составляющих в задаче дифракции на поверхностях вращения.</a>
+               <br>
+               <strong>Васина П.А.</strong>, 
+               <a href="/sites/cmc/files/docs/vasina.pdf" target="_blank">Оптимальное налоговое принуждение при несовершенных налогоплательщиках и инспектора.</a>
+               <br>
+               <strong>Куркина Е.С., Семендяева Н.Л.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_10.pdf" target="_blank">Механизмы формирования колебаний в стохастической и детерминистической моделях одной каталитической реакции.</a>
+               <br>
+               <strong>Евсеев А.Б.</strong>, 
+               <a href="/sites/cmc/files/docs/evseev.pdf" target="_blank">Численное решение обратной неравновесной сорбционной задачи с нестационарным краевым условием.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide44" class="hide" id="hide44">Выпуск №10, 2002г.</a> 
+              <a href="#show44" class="show" id="show44">Выпуск №10, 2002г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Мурашкина К.Б., Пасконое В.М.</strong>, 
+               <a href="/sites/cmc/files/docs/murashkina.pdf" target="_blank">Численное исследование краевой задачи для нелинейного уравнения типа Кортевега - де Фриса - Бюргерса.</a>
+               <br>
+               <strong>Саблин М.Н., Арделян Н.В.</strong>, 
+               <a href="/sites/cmc/files/docs/sablin.pdf" target="_blank">Двумерная операторно - разностная схема газовой динамики в лагранжевых координатах на нерегулярной треугольной сетке, обладающая свойством локальной аппроксимации вблизи оси симметрии.</a>
+               <br>
+               <strong>Завриев С.К., Перунова Ю.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/zavriev.pdf" target="_blank">Параллельные версии медифицированных методов покоординатного и градиентного спуска и их применение для решения некоторого класса задач глобальной оптимизации.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_10.pdf" target="_blank">Расчет магнитных полей в открытых ловушках со встречными полями.</a>
+               <br>
+               <strong>Лебедев М.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/lebedev_2.pdf" target="_blank">Линейные решения в задаче об излучении дискретного тона сверхзвуковыми струями.</a>
+               <br>
+               <strong>Зеркаль С.В.</strong>, 
+               <a href="/sites/cmc/files/docs/zerkal.pdf" target="_blank">Апостериорная оценка погрешности метода частиц на моделях теории мелкой воды.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Проблемы оптимизации</strong>
+               <br>
+               <hr>
+               <strong>Васин А.А., Навиди Х.</strong>, 
+               <a href="/sites/cmc/files/docs/vasin.pdf" target="_blank">Оптимальная стратегия налоговых проверок.</a>
+               <br>
+               <strong>Чуркина С.Ю., Забродин Ю.Д.</strong>, 
+               <a href="/sites/cmc/files/docs/churkina.pdf" target="_blank">Метод целевых уровней в линейных многокритериальных задачах.</a>
+               <br>
+               <strong>Ахмади М.Б.</strong>, 
+               <a href="/sites/cmc/files/docs/ahmadi.pdf" target="_blank">Расчет резервного кольца иерархической сети связи.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide45" class="hide" id="hide45">Выпуск №9, 2001г.</a> 
+              <a href="#show45" class="show" id="show45">Выпуск №9, 2001г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Давыдов А.Г., Захаров Е.В., Пименов Ю.В.</strong>, 
+               <a href="https://cs.msu.ru/sites/cmc/files/docs/davydov_1.pdf" target="_blank">Гиперсингулярные интегральные уравнения в вычислительной электродинамике.</a>
+               <br>
+               <strong>Еремин Ю.А., Свешников А.Г.</strong>, 
+               <a href="https://cs.msu.ru/sites/cmc/files/docs/eremin_0.pdf" target="_blank">Компьютерная технология метода дискретных источников для задач рассеяния.</a>
+               <br>
+               <strong>Коршунова Е.Н., Сивов А.Н, Шатров А.Д.</strong>, 
+               <a href="https://cs.msu.ru/sites/cmc/files/docs/korshunova.pdf" target="_blank">Резонансные явления, возникающие при дифракции на малых электродинамических объектах с анизотропной проводимостью поверхности.</a> 
+               <br>
+               <strong>Смирнов Ю.Г.</strong>, 
+               <a href="https://cs.msu.ru/sites/cmc/files/docs/smirnov.pdf" target="_blank">Метод операторных пучков в задаче о распространении электромагнитных волн в регулярных волноведущих структурах.</a>
+               <br>
+               <strong>Васильев Е.Н., Солодухов В.В.</strong>, 
+               <a href="https://cs.msu.ru/sites/cmc/files/docs/vasilev.pdf" target="_blank">Численно-асимптотические алгоритмы решения задач электродинамики в высокочастотной области.</a>
+               <br>
+               <strong>Ильинский А.С.</strong>, 
+               <a href="https://cs.msu.ru/sites/cmc/files/docs/ilinskiy_1.pdf" target="_blank">Математические модели вибраторных антенн.</a>
+               <br>
+               <strong>Боголюбов А.Н., Делицын А.Л., Свешников А.Г.</strong>, 
+               <a href="https://cs.msu.ru/sites/cmc/files/docs/bogolyubov.pdf" target="_blank">Возбуждение волноводов с неоднородным заполнением.</a>
+               <br>
+               <strong>Буничева А.Я., Мухин С.И., Соснин Н.В., Фаворский А.П., Хруленко А.Б.</strong>, 
+               <a href="https://cs.msu.ru/sites/cmc/files/docs/bunicheva.pdf" target="_blank">Математическое моделирование некоторых прикладных задач гемодинамики.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide46" class="hide" id="hide46">Выпуск №8, 2001г.</a> 
+              <a href="#show46" class="show" id="show46">Выпуск №8, 2001г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_11.pdf" target="_blank">Гибридное моделирование плазмы космического пространства: Модели с представлением электронов B виде безмассовой жидкости. 5. Пересоединение магнитных силовых линий.</a>
+               <br>
+               <strong>Базаров С.Б., Набоко И.М.</strong>, 
+               <a href="/sites/cmc/files/docs/bazarov.pdf" target="_blank">Моделирование кумуляции волн в полостях.</a>
+               <br>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_7.pdf" target="_blank">Оценка уровня компромисса в реальных моделях выбора.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Рудаков К.В., Чехович Ю.В.</strong>, 
+               <a href="/sites/cmc/files/docs/rudakov.pdf" target="_blank">O проблеме синтеза обучаемых алгоритмов выделения трендов (алгебраический подход).</a>
+               <br>
+               <strong>Галкин В.Я., Уфимцев М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/galkin.pdf" target="_blank">O смеси распределения Пуассона конечного порядка с биномиальным распределением.</a>
+               <br>
+               <strong>Васильева Е.В.</strong>, 
+               <a href="/sites/cmc/files/docs/vasileva.pdf" target="_blank">Об условиях постоянства знака производной времени быстродействия.</a>
+               <br>
+               <strong>Бойцов Л.М.</strong>, 
+               <a href="/sites/cmc/files/docs/boycov.pdf" target="_blank">Использование хеширования по сигнатуре для поиска по сходству.</a>
+               <br>
+               <strong>Панферов С.В.</strong>, 
+               <a href="/sites/cmc/files/docs/panferov.pdf" target="_blank">Гарантированная оценка угла между касательной и координатной плоскостями.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide47" class="hide" id="hide47">Выпуск №7, 2001г.</a> 
+              <a href="#show47" class="show" id="show47">Выпуск №7, 2001г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Силкин А.Н., Фарзан Р.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_17.pdf" target="_blank">Тензорная функция Грина для системы уравнений Максвелла в слоистой среде.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_12.pdf" target="_blank">Гибридное моделирование плазмы космического пространства: Модели с представлением электронов в виде безмассовой жидкости. 4. Неустойчивость Кельвина- Гельмгольца.</a>
+               <br>
+               <strong>Росляков Г.С., Садков Ю.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/roslyakov.pdf" target="_blank">Осесимметрические течения идеального газа и их взаимодействие с преградами.</a>
+               <br>
+               <strong>И.А. Широков, Т.Г. Елизарова.</strong>, 
+               <a href="/sites/cmc/files/docs/shirokov_1.pdf" target="_blank">Применение многопроцессорных систем для расчета струйных течений.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Туйкина С.Р.</strong>, 
+               <a href="/sites/cmc/files/docs/tuykina_5.pdf" target="_blank">Обратные задачи для одной математической модели ионообмена в случае сжимаемости ионита.</a>
+               <br>
+               <strong>Дрожжина О.В., Щеглов А.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/drozhzhina_1.pdf" target="_blank">Об одной обратной задаче для модели иерархической структуры.</a>
+               <br>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_8.pdf" target="_blank">Проблема выбора из трехэлементного множества: некоторые уроки президентской кампании (США, 2000г.).</a>
+               <br>
+               <strong>Галкин В.Я., Меченов А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/galkin_0.pdf" target="_blank">О регуляризации линейных регрессионных задач.</a>
+               <br>
+               <strong>Доровских И.В., Щеглов А.Ю., Любин А.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/dorovskih_0.pdf" target="_blank">Вычислительная обработка результатов исследования психических нарушений острого периода сотрясения головного мозга.</a>
+               <br>
+               <strong>Чуркина С.Ю.</strong>, 
+               <a href="/sites/cmc/files/docs/churkina_0.pdf" target="_blank">Поиск эффективных решений многокритериальных задач методом целевых уровней.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide48" class="hide" id="hide48">Выпуск №6, 2000г.</a> 
+              <a href="#show48" class="show" id="show48">Выпуск №6, 2000г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Ильинский А.С., Галишиикова Т.Н., Бережная И.В.</strong>, 
+               <a href="/sites/cmc/files/docs/ilinskiy_2.pdf" target="_blank">Исследование характеристик отражения электромагнитного поля от волнистой периодической границы раздела прозрачных сред.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_13.pdf" target="_blank">Вычисление троекторий частиц в острийной геометрии ловушки открытого типа.</a>
+               <br>
+               <strong>Егоров И.В., Дмитриев В.И.</strong>, 
+               <a href="/sites/cmc/files/docs/egorov.pdf" target="_blank">Математическое ммоделирование теллурического поля в окрестности протяженных проводников.</a>
+               <br>
+               <strong>Дородницын Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dorodnicyn_3.pdf" target="_blank">Акустические свойства непрерывных и дискретных газодинамических моделий.</a>
+               <br>
+               <strong>Щедрин Б.М.</strong>, 
+               <a href="/sites/cmc/files/docs/shchedrin.pdf" target="_blank">О существовании решения обратных задач восстановления строения вещества по дифракционным данным.</a>
+               <br>
+               <strong>Куркина Е.С., Толстунова Е.Д.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_11.pdf" target="_blank">Особенности моделирования колебаний скорости реакции СО+О2 в слое зернистого катализатора.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Разгулин А.В., Роганович И.Б.</strong>, 
+               <a href="/sites/cmc/files/docs/razgulin_1.pdf" target="_blank">О сходимости проекционно-разностной схемы для нелинейного параболического уравнения с преобразованием пространственного аргумента.</a>
+               <br>
+               <strong>Крылов А.С., Дякишев А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/krylov_0.pdf" target="_blank">Об одной модификации проекционного метода решения интегрального уравнения I-го рода.</a>
+               <br>
+               <strong>Меченов А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/mechenov.pdf" target="_blank">Вариационные задачи для построения псевдо-решений линейных интегральных уравнений.</a>
+               <br>
+               <strong>Ложкин С.А., Ден Бенсин,</strong>, 
+               <a href="/sites/cmc/files/docs/lozhkin_0.pdf" target="_blank">О построении надежных схем из ненадежных функциональных элементов с прямыми и итеративными входами.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide49" class="hide" id="hide49">Выпуск №5, 2000г.</a> 
+              <a href="#show49" class="show" id="show49">Выпуск №5, 2000г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Семендяева Н.Л., Куркина Е.С.</strong>, 
+               <a href="/sites/cmc/files/docs/semendyaeva_0.pdf" target="_blank">Исследование новой модели термодесорбции азота с неоднородной поверхности катализатора.</a>
+               <br>
+               <strong>Куркина Е.С., Толстунова Е.Д.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_12.pdf" target="_blank">Математическое моделирование реакции окисления СО в тонком слое зернистого катализатора.</a>
+               <br>
+               <strong>Дмитриев В.И., Чернявский А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_18.pdf" target="_blank">О задаче синтеза покрытий.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Нематематические модели в информационных и оптимизационных задачах</strong>
+               <br>
+               <hr>
+               <strong>Попов Н.М.</strong>, 
+               <a href="/sites/cmc/files/docs/popov.pdf" target="_blank">О некоторых вопросах теории оптимальных алгоритмов и информационной сложности.</a>
+               <br>
+               <strong>Левченков В.С., Левченкова Л.Г.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_9.pdf" target="_blank">Выбор по циклическим турнирным соотношениям.</a>
+               <br>
+               <strong>Поспелова И.И.</strong>, 
+               <a href="/sites/cmc/files/docs/pospelova.pdf" target="_blank">Векторный минимакс с позиций разных сторон.</a>
+               <br>
+               <strong>Близорукова М.С.</strong>, 
+               <a href="/sites/cmc/files/docs/blizorukova.pdf" target="_blank">О моделировании входа в системе с запаздыванием.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide50" class="hide" id="hide50">Выпуск №4, 2000г.</a> 
+              <a href="#show50" class="show" id="show50">Выпуск №4, 2000г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Филлипычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_14.pdf" target="_blank">Гибридное моделирование плазмы космического пространства: Модели с представлением электронов в виде безмассовой жидкости. 3. Безударные разрывы.</a>
+               <br>
+               <strong>Куркина Е.С., Малых А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/kurkina_13.pdf" target="_blank">Численный метод построения автомодельного решения типа уединенной волны.</a>
+               <br>
+               <strong>Андрианов А.Н., Жохова А.В., Четверушкин Б.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/andrianov_0.pdf" target="_blank">Использование параллельных алгоритмов для расчетов газодинамических течений на нерегулярных сетках.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математические модели в финансовых задачах</strong>
+               <br>
+               <hr>
+               <strong>Белянкин Г.А., Корсаков Н.Н., Морозов В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/belyankin.pdf" target="_blank">Исследование задачи оптимального управления долгами.</a>
+               <br>
+               <strong>Левченков Д.В.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_10.pdf" target="_blank">Численный анализ игр на разорение.</a>
+               <br>
+               <strong>Межуев П.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/mezhuev.pdf" target="_blank">Расчет тарифных ставок имущественного страхования по накопленной статистике.</a>
+               <br>
+               <strong>Морозов В.В., Обижаева А.А., Сапожникова Д.А.</strong>, 
+               <a href="/sites/cmc/files/docs/morozov_5.pdf" target="_blank">Оптимизационная задача оценки инвистиционного проекта.</a>
+               <br>
+               <strong>Богданов А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/bogdanov_0.pdf" target="_blank">Об устойчивости эффективных исходов в повторяющихся играх.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide51" class="hide" id="hide51">Выпуск №3, 1999г.</a> 
+              <a href="#show51" class="show" id="show51">Выпуск №3, 1999г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Управление и оптимизация в нелинейных системах</strong>
+               <br>
+               <hr>
+               <strong>Бобылев Н.А., Емельянов С.В., Коровин С.К.</strong>, 
+               <a href="/sites/cmc/files/docs/bobylev.pdf" target="_blank">Аттракторы дискретных управляемых систем в метрических пространствах.</a>
+               <br>
+               <strong>Афанасьев А.П., Остапенко А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/afanasev.pdf" target="_blank">Максимизация суммы надщюгональных элементов матриц в локальных вариационных задачах с вырожденным интегрантом.</a>
+               <br>
+               <strong>Ильин А.В., Носов А.П., Фомичев В.В.</strong>, 
+               <a href="/sites/cmc/files/docs/ilin.pdf" target="_blank">Асимптотически точное обращение неопределенных динамических систем.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Математическое моделирование</strong>
+               <br>
+               <hr>
+               <strong>Ильинский А.С., Галишникова Т.Н., Бережная И.В.</strong>, 
+               <a href="/sites/cmc/files/docs/ilinskiy_3.pdf" target="_blank">Характеристики отражения от волнистой границы раздела прозрачных сред.</a>
+               <br>
+               <strong>Дородницын Л.В.</strong>, 
+               <a href="/sites/cmc/files/docs/dorodnicyn_4.pdf" target="_blank">Акустика в моделях вязких дозвуковых течений и неотражающие граничные условия.</a>
+               <br>
+               <strong>Агаян Г.М., Гончаровский А.А., Гончаровский А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/agayan.pdf" target="_blank">Об одной задаче обработки изображений при формировании компьютерно синтезированных голограмм в натуральных цветах.</a>
+               <br>
+               <strong>Росляков Г.С., Садков Ю.Н.</strong>, 
+               <a href="/sites/cmc/files/docs/roslyakov_0.pdf" target="_blank">Автоколебания при взаимодействии сверхзвуковых течений с преградами.</a>
+               <br>
+               <strong>Рублев И.В.</strong>, 
+               <a href="/sites/cmc/files/docs/rublev.pdf" target="_blank">Обобщенные формулы Хопфа для неавтономного управления Гамильтона-Якоби.</a>
+               <br>
+               <strong>Захаров В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharov_v.a..pdf" target="_blank">О разрешимости проблемы эквивалентности в одном классе операторных программ.</a>
+               <br>
+               <strong>Захарова И.Г., Трофимов В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharova.pdf" target="_blank">Нестационарные процессы при встречном коллинеарном взаимодействии световых пучков в схеме с отражающим зеркалом.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide52" class="hide" id="hide52">Выпуск №2, 1999г.</a> 
+              <a href="#show52" class="show" id="show52">Выпуск №2, 1999г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Математические модели</strong>
+               <br>
+               <hr>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_15.pdf" target="_blank">Гибридное моделирование плазмы космического пространства: Модели с представлением электронов в виде безмассовой жидкости. 2.Медленные и промежуточные ударные волны.</a>
+               <br>
+               <strong>Дмитриев В.И., Мершикова Н.А.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_19.pdf" target="_blank">О Спектральный метод в обратной задаче вертикального электрического зондирования двумерных квазислоистых сред.</a>
+               <br>
+               <strong>Дмитриев В.И., Егоров Д.А., Барашков А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_egorov_0.pdf" target="_blank">О восстановлении среды итерационно-асимптотическим методом.</a>
+               <br>
+               <strong>Захаров Е.В., Серегина О.В.</strong>, 
+               <a href="/sites/cmc/files/docs/zaharov_4.pdf" target="_blank">Численный анализ математической модели системы кровоснабжения миокарда.</a>
+               <br>
+               <strong>Дорохова Т.В., Савенкова Н.П., Трофимов В.А.</strong>, 
+               <a href="/sites/cmc/files/docs/dorohova.pdf" target="_blank">Численное моделирование солитонных решений задачи распространения фемтосекундного импульса в среде с кубической нелинейностью.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Богданов А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/bogdanov_1.pdf" target="_blank">Об условиях сходимости итерационного метода Брауна-Робинса для биматричных игр.</a>
+               <br>
+               <strong>Галкин В.Я., Уфимцев М.В.</strong>, 
+               <a href="/sites/cmc/files/docs/galkin_1.pdf" target="_blank">Оценивание параметров распределения Пуассона порядка “к”.</a>
+               <br>
+               <strong>Меченов А.С.</strong>, 
+               <a href="/sites/cmc/files/docs/mechenov_0.pdf" target="_blank">Метод наименьших расстояний для конфлюентной модели с гомоскедастичными измерениями столбцов матрицы и правой части.</a>
+               <br>
+               <strong>Новиков К.В.</strong>, 
+               <a href="/sites/cmc/files/docs/novikov.pdf" target="_blank">Использование метода приближенной факторизации для построения пространственных сеток.</a>
+               <br>
+               <strong>Левченков В.С., Левченков Д.В.</strong>, 
+               <a href="/sites/cmc/files/docs/levchenkov_11.pdf" target="_blank">Описание симметрии одномерных фигур на основе степенных сумм координат точек.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+             <div class="row"> 
+              <a href="#hide53" class="hide" id="hide53">Выпуск №1, 1999г.</a> 
+              <a href="#show53" class="show" id="show53">Выпуск №1, 1999г.</a> 
+              <br>
+              <div class="list"> 
+               <strong>Раздел I. Численные методы</strong>
+               <br>
+               <hr>
+               <strong>Апельцин В.Ф.</strong>, 
+               <a href="/sites/cmc/files/docs/apelcin.pdf" target="_blank">Об одном обобщении метода Д.А. Граве решения плоских паевых задай теории гармонического потенциала.</a>
+               <br>
+               <strong>Филиппычев Д.С.</strong>, 
+               <a href="/sites/cmc/files/docs/filippychev_16.pdf" target="_blank">Гибридное моделирование плазмы космического пространства: Модели с представлением электронов в виде безмассовой жидкости. 1. Бесстолкновительные ударные волны.</a>
+               <br>
+               <strong>Трощиев Ю.В.</strong>, 
+               <a href="/sites/cmc/files/docs/troshchiev.pdf" target="_blank">О коэффициентах в неидеальном решеточном газе при больших градиентах концентраций.</a>
+               <br>
+               <strong>Разгулин А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/razgulin_2.pdf" target="_blank">НО зависимости решений нелинейного уравнения типа Шредингера от параметра диссипации.</a> 
+               <br>
+               <br>
+               <strong>Раздел II. Обратные задачи</strong>
+               <br>
+               <hr>
+               <strong>Дмитриев В.И., Бейтолдахи А.</strong>, 
+               <a href="/sites/cmc/files/docs/dmitriev_20.pdf" target="_blank">О спектральном подходе к квазитрехмерной обратной задаче вертикального электрического зондирования.</a>
+               <br>
+               <strong>Выскубенко А.Б., Разгулян А.В.</strong>, 
+               <a href="/sites/cmc/files/docs/vyskubenko.pdf" target="_blank">Вариационный метод в одной задаче диагностики неравновесных газовых сред.</a>
+               <br>
+               <strong>Агаян Г.М.</strong>, 
+               <a href="/sites/cmc/files/docs/agayan_0.pdf" target="_blank">Численное решение задачи формирования изображения в двух плоскостях с использованием интегральной формулы Френеля.</a> 
+               <br>
+               <br>
+               <strong>Раздел III. Математическое обеспечение сложных систем</strong>
+               <br>
+               <hr>
+               <strong>Подосенова Т.Б.</strong>, 
+               <a href="/sites/cmc/files/docs/podosenova.pdf" target="_blank">Проблемы элементного анализа излучения природных объектов в условиях ассиметричной формы линий спектра.</a>
+               <br>
+               <strong>Станишич П.</strong>, 
+               <a href="/sites/cmc/files/docs/stanishich.pdf" target="_blank">Метод трансляции реляцонных SQL-запросов в эквивалентные запросы к трансформированной объктно-ориентированной базе данных.</a> 
+               <hr>
+               <hr>
+              </div> 
+             </div> 
+            </div>
+           </div>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="grid grid_4"> 
+     <div class="region region-sidebar-second"> 
+      <div id="block-views-news-block" class="block block-views"> 
+       <h2>Новости</h2> 
+       <div class="content"> 
+        <div class="view view-news view-id-news view-display-id-block view-dom-id-93a6270818f34e02f9bc1568bdba5103"> 
+         <div class="view-content"> 
+          <div class="views-row views-row-1 views-row-odd views-row-first"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             с 
+             <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-11-24T10:00:00+03:00">24 ноября</span> по 
+             <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-11-26T18:00:00+03:00">26 ноября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2639">Современные информационные технологии и ИТ-образование / Modern information technologies and IT-education</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-2 views-row-even"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             с 
+             <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-10-23T10:00:00+03:00">23 октября</span> по 
+             <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-10-27T18:00:00+03:00">27 октября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2659">Научная конференция «Тихоновские чтения»</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-3 views-row-odd"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-06-15T12:30:00+03:00">15 июня</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2633">Сотрудник ВМК развивает аппарат квантовой теории магнетизма металлов</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-4 views-row-even"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-06-10T12:30:00+03:00">10 июня</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2634">Разработан метод построения динамических моделей общего экономического равновесия</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-5 views-row-odd"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             с 
+             <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-04-17T12:00:00+03:00">17 апреля</span> по 
+             <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-04-26T18:00:00+03:00">26 апреля</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2574">Научная конференция «Ломоносовские чтения–2017»</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-6 views-row-even"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-11-07T15:00:00+03:00">07 ноября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2470">Итоги выборов в РАН</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-7 views-row-odd views-row-last"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-09-07T18:00:00+03:00">07 сентября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2406">Конференция, посвященная 90-летию Л.Н.Королева</a></span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="view-footer"> 
+          <p><br><a href="/news">Все новости...</a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- Bottom --> 
+   <div id="bottom" class="zone"> 
+    <div class="grid grid_6"> 
+     <div class="region region-bottom-1"> 
+      <div id="block-views-news-block-2" class="block block-views"> 
+       <h2>Сообщения</h2> 
+       <div class="content"> 
+        <div class="view view-news view-id-news view-display-id-block_2 view-dom-id-7139efb0d2a88c201be72c0105c7f947"> 
+         <div class="view-content"> 
+          <div class="views-row views-row-1 views-row-odd views-row-first"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-11-08T17:15:00+03:00">08 ноября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2675">NtechLab стала победителем в двух номинациях конкурса Агентства передовых исследований в сфере разведки (IARPA)</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-2 views-row-even"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-11-01T18:30:00+03:00">01 ноября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2674">Поздравляем юбиляров ноября!</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-3 views-row-odd"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-20T21:45:00+03:00">20 октября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2672">Студенты ВМК — победители Data Science Game 2017</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-4 views-row-even"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-06T12:30:00+03:00">06 октября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2669">ЧАНЫШЕВ НАДИР АМИРОВИЧ (23.07.1960-05.10.2017)</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-5 views-row-odd"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-03T15:00:00+03:00">03 октября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2668">Поздравляем юбиляров октября!</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-6 views-row-even views-row-last"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-09-15T23:45:00+03:00">15 сентября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2663">Cтуденты ВМК — победители хакатона по компьютерному зрению</a></span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="view-footer"> 
+          <p><br><a href="/news/posts">Все сообщения...</a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="grid grid_6"> 
+     <div class="region region-bottom-2"> 
+      <div id="block-views-news-block-1" class="block block-views"> 
+       <h2>События</h2> 
+       <div class="content"> 
+        <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-0c42f67b2d975673ee73a60b66f9d909"> 
+         <div class="view-content"> 
+          <div class="views-row views-row-1 views-row-odd views-row-first"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             с 
+             <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-10-04T18:45:00+03:00">04 октября</span> по 
+             <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-12-20T18:45:00+03:00">20 декабря</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2667">Альпийский клуб МГУ-2017 по вторникам 18:30 а. 685</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-2 views-row-even"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             с 
+             <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-10-10T10:00:00+03:00">10 октября</span> по 
+             <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-12-15T23:00:00+03:00">15 декабря</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2612">Всероссийский конкурс научных работ среди студентов и аспирантов по транспортной проблематике</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-3 views-row-odd"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             с 
+             <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-11-03T17:00:00+03:00">03 ноября</span> по 
+             <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-11-27T20:00:00+03:00">27 ноября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2673">Лекции-консультации по математике и информатике</a></span> 
+           </div> 
+          </div> 
+          <div class="views-row views-row-4 views-row-even views-row-last"> 
+           <div class="views-field views-field-field-period"> 
+            <div class="field-content">
+             с 
+             <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-11-24T10:00:00+03:00">24 ноября</span> по 
+             <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-11-26T18:00:00+03:00">26 ноября</span>
+            </div> 
+           </div> 
+           <div class="views-field views-field-title"> 
+            <span class="field-content"><a href="/news/2639">Современные информационные технологии и ИТ-образование / Modern information technologies and IT-education</a></span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="view-footer"> 
+          <p><br><a href="/news/events">Все события...</a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="block-block-9" class="block block-block"> 
+       <div class="content"> 
+        <hr>
+        <p>Предложения по содержанию и функционированию сайта направляйте по адресу <a href="mailto:cmcproject@cs.msu.ru">cmcproject@cs.msu.ru</a>.</p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="grid grid_4"> 
+     <div class="region region-bottom-3"> 
+      <div id="block-block-16" class="block block-block"> 
+       <h2>Быстрые ссылки</h2> 
+       <div class="content"> 
+        <a href="http://pk.cmc.msu.ru/"><b>Приемная комиссия</b></a> 
+       </div> 
+      </div> 
+      <div id="block-menu-menu-quicklinks" class="block block-menu"> 
+       <div class="content"> 
+        <ul class="menu">
+         <li class="first leaf"><a href="http://fao.cs.msu.su" title="">Foreign Admission Office</a></li> 
+         <li class="leaf"><a href="http://vmk-edu.ru/courses/ege" title="">Подготовительные курсы</a></li> 
+         <li class="leaf"><a href="http://www.vmk-edu.ru/catalog/" title="">Компьютерные курсы</a></li> 
+         <li class="leaf"><a href="http://www.vmk-edu.ru/kvaluch/" title="">ВМК МГУ – школе</a></li> 
+         <li class="leaf"><a href="http://vmkcontent.zenfolio.com" title="">Контент-центр</a></li> 
+         <li class="leaf"><a href="https://webmail.cs.msu.ru/" title="">Веб-интерфейс к почте</a></li> 
+         <li class="leaf"><a href="/studies/schedule" title="">Расписание занятий</a></li> 
+         <li class="leaf"><a href="http://msupress.com/catalogue/magazines/kibernetika/1457/" title="">Вестник МГУ. Серия 15</a></li> 
+         <li class="leaf"><a href="http://istina.msu.ru/" title="Интеллектуальная Система Тематического Исследования НАучно-технической информации МГУ">Система ИСТИНА МГУ</a></li> 
+         <li class="leaf"><a href="http://support.cmc.msu.ru" title="">Служба тех. поддержки</a></li> 
+         <li class="leaf"><a href="http://wiki.cmc.msu.ru" title="">Факультетские IT-сервисы</a></li> 
+         <li class="leaf"><a href="/faculty/resources/e-library" title="">Электронная библиотека</a></li> 
+         <li class="last leaf"><a href="/support" title="">Поддержка сайта</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div id="block-node-syndicate" class="block block-node"> 
+       <div class="content"> 
+        <a href="/rss.xml" class="feed-icon" title="Подписка на Сбор новостей"><img typeof="foaf:Image" src="https://cs.msu.ru/misc/feed.png" width="16" height="16" alt="Подписка на Сбор новостей"></a> 
+       </div> 
+      </div> 
+      <div id="block-block-17" class="block block-block"> 
+       <div class="content"> 
+        <p>Все материалы сайта доступны по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru">Creative Commons Attribution 4.0 International</a></p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- Footer --> 
+   <div id="footer" class="zone zone-blue zone-slim"> 
+    <div class="grid grid_8"> 
+     <div class="region region-footer-1"> 
+      <div id="block-block-2" class="block block-block"> 
+       <div class="content">
+         1996–2017 
+        <a href="/" title="Факультет вычислительной математики и кибернетики МГУ имени М. В.&nbsp;Ломоносова">Факультет ВМК</a> 
+        <a target="_blank" href="http://msu.ru" title="Московский государственный университет имени М. В.&nbsp;Ломоносова">МГУ имени М. В.&nbsp;Ломоносова</a> 
+        <!-- Yandex.Metrika counter --> 
+        <script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter7052212 = new Ya.Metrika({id:7052212,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    trackHash:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script> 
+        <noscript>
+         <div>
+          <img src="//mc.yandex.ru/watch/7052212" style="position:absolute; left:-9999px;" alt="">
+         </div>
+        </noscript> 
+        <!-- /Yandex.Metrika counter --> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="grid grid_8"> 
+     <div class="region region-footer-2"> 
+      <div id="block-menu-menu-sitelinks" class="block block-menu"> 
+       <div class="content"> 
+        <ul class="menu">
+         <li class="first leaf"><a href="/terms">Правовая информация</a></li> 
+         <li class="leaf"><a href="/contacts" title="">Контакты</a></li> 
+         <li class="collapsed"><a href="/sitemap" title="">Карта сайта</a></li> 
+         <li class="last leaf"><a href="/about">О сайте</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="clear"></div> 
+   </div> 
+  </div>   
+ </body>
+</html>

@@ -17,7 +17,7 @@
     </bean>
     
     <context:component-scan base-package="com.github.stagirs" />
- 
+    
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix">
             <value>/WEB-INF/views/</value>
@@ -26,6 +26,4 @@
             <value>.jsp</value>
         </property>
     </bean>
-      
-      
 </beans>

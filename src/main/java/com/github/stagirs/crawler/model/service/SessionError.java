@@ -26,6 +26,7 @@ import static org.apache.commons.lang.math.NumberUtils.toInt;
 public class SessionError {
     private String dateTime;
     private String downloaderId;
+    private String message;
     private String exeption;
 
     private SessionError() {
@@ -34,7 +35,9 @@ public class SessionError {
     public SessionError(String dateTime, String downloaderId, Throwable e) {
         this.dateTime = dateTime;
         this.downloaderId = downloaderId;
-        this.exeption = Utils.toString(e);
+        String[] exeption = Utils.toString(e);
+        this.message = exeption[0];
+        this.exeption = exeption[1];
     }
 
     public String getDateTime() {
@@ -49,12 +52,16 @@ public class SessionError {
         return exeption;
     }
 
+    public String getMessage() {
+        return message;
+    }
     
     
     public static String serialize(SessionError error){
         StringBuilder sb = new StringBuilder();
         sb.append(error.dateTime).append("\t");
         sb.append(error.downloaderId).append("\t");
+        sb.append(error.message).append("\t");
         sb.append(error.exeption);
         return sb.toString();
     }
@@ -65,6 +72,7 @@ public class SessionError {
         int i = 0;
         error.dateTime = parts[i++];
         error.downloaderId = parts[i++];
+        error.message = parts[i++];
         error.exeption = parts[i++];
         return error;
     }

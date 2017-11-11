@@ -17,7 +17,9 @@ package com.github.stagirs.crawler;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import org.apache.commons.lang.StringUtils;
 
 /**
@@ -26,7 +28,7 @@ import org.apache.commons.lang.StringUtils;
  */
 public class Utils {
     
-    enum SDF{
+    public enum SDF{
         DATE("yyyy-MM-dd"), 
         DATE_TIME("yyyy-MM-dd HH:mm:ss"), 
         MONTH("yyyy-MM");
@@ -62,9 +64,13 @@ public class Utils {
         }
     }
     
-    public static String toString(Throwable e){
+    public static String[] toString(Throwable e){
         if(e.getCause() == null){
-            return e.getMessage() + " " + StringUtils.join(e.getStackTrace(), " ");
+            List<String> lines = new ArrayList<>();
+            for (StackTraceElement ste : e.getStackTrace()) {
+                lines.add(ste.getFileName().split("\\.")[0] + "." + ste.getMethodName() + "():" + ste.getLineNumber());
+            }
+            return new String[]{e.getMessage(), StringUtils.join(lines, " ")};
         }else{
             return toString(e.getCause());
         }

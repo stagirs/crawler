@@ -15,14 +15,17 @@
  */
 package com.github.stagirs.crawler.model.business;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  *
  * @author Dmitriy Malakhov
  */
 public class Record {
-    enum Type{
+    public enum Type{
         /**Журнальная статья*/
         PAPER, 
         /**Доклад на конференции*/
@@ -38,82 +41,124 @@ public class Record {
     private String dateTime;
     private long hash;
     private String downloaderId;
-    private String url;
     private Type type;
-    private String title;
-    private List<Author> authors;
-    private String year;
-    private String location;
-    private String udc;
-    private String doi;
-    private String classificators;
-    private String pages;
-    private String annotation;
-    private String keyWords;
-    private String bibliography;
     
+    private String url;
+    private String title;
+    private String annotation;
+    private List<String> keyWords = new ArrayList<>();
+    private List<String> bibliography = new ArrayList<>();
+    private List<Author> authors = new ArrayList<>();
+    
+    private Map<String, String> classificators = new HashMap<>();
+    
+    private String source;
+    private String pages;
+    private String location;
+    private String year;
+    private String doi;
+    
+    
+    /**
+     * @return дата обработки
+     */
     public String getDateTime() {
         return dateTime;
     }
-
+    /**
+     * @return уникальный идентификатор публикации
+     */
     public long getHash() {
         return hash;
     }
-
+    /**
+     * @return название класса, обработавшего публикацию
+     */
     public String getDownloaderId() {
         return downloaderId;
     }
-
+    /**
+     * @return адрес по которому доступен полный текст публикации
+     */
     public String getUrl() {
         return url;
     }
-
+    /**
+     * @return тип публикации
+     */
     public Type getType() {
         return type;
     }
-
+    /**
+     * @return название публикации
+     */
     public String getTitle() {
         return title;
     }
-
+    /**
+     * @return аннотация для публикации
+     */
+    public String getAnnotation() {
+        return annotation;
+    }
+    /**
+     * @return ключевые слова для публикации
+     */
+    public List<String> getKeyWords() {
+        return keyWords;
+    }
+    /**
+     * @return список литературы
+     */
+    public List<String> getBibliography() {
+        return bibliography;
+    }
+    /**
+     * @return список авторов
+     */
     public List<Author> getAuthors() {
         return authors;
     }
-
+    /**
+     * @return название журнала или конференции
+     */
+    public String getSource() {
+        return source;
+    }
+    /**
+     * @return номер выпуска, раздел и страницы
+     */
+    public String getPages() {
+        return pages;
+    }
+    /**
+     * @return год выпуска
+     */
     public String getYear() {
         return year;
     }
-
+    /**
+     * @return местоположение выпуска
+     */
     public String getLocation() {
         return location;
     }
-
-    public String getUdc() {
-        return udc;
+    /**
+     * @return классификаторы
+     */
+    public Map<String, String> getClassificators() {
+        return classificators;
     }
-
+    /**
+     * @return DOI идентификатор
+     */
     public String getDoi() {
         return doi;
     }
 
-    public String getClassificators() {
-        return classificators;
-    }
 
-    public String getPages() {
-        return pages;
-    }
-
-    public String getAnnotation() {
-        return annotation;
-    }
-
-    public String getKeyWords() {
-        return keyWords;
-    }
-
-    public String getBibliography() {
-        return bibliography;
+    public void setSource(String source) {
+        this.source = source;
     }
 
     public void setDateTime(String dateTime) {
@@ -152,17 +197,15 @@ public class Record {
         this.location = location;
     }
 
-    public void setUdc(String udc) {
-        this.udc = udc;
-    }
-
     public void setDoi(String doi) {
         this.doi = doi;
     }
 
-    public void setClassificators(String classificators) {
+    public void setClassificators(Map<String, String> classificators) {
         this.classificators = classificators;
     }
+
+    
 
     public void setPages(String pages) {
         this.pages = pages;
@@ -172,11 +215,11 @@ public class Record {
         this.annotation = annotation;
     }
 
-    public void setKeyWords(String keyWords) {
+    public void setKeyWords(List<String> keyWords) {
         this.keyWords = keyWords;
     }
 
-    public void setBibliography(String bibliography) {
+    public void setBibliography(List<String> bibliography) {
         this.bibliography = bibliography;
     }
     

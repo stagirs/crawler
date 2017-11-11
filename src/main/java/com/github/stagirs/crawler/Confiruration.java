@@ -20,8 +20,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.annotation.PostConstruct;
 import org.springframework.stereotype.Component;
 
@@ -31,11 +29,12 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class Confiruration {
-    private File confFile = new File(System.getProperty("catalina.home") + "/crawler/conf");
+    private File confFile = new File(System.getProperty("catalina.home") + "/work/crawler/conf");
     private Map<String, String> config;
     
     @PostConstruct
     public void init(){
+        confFile.getParentFile().mkdirs();
         try {
             if(confFile.exists()){
                 config = new ObjectMapper().readValue(confFile, Map.class);
@@ -60,6 +59,6 @@ public class Confiruration {
         save();
     }
     public String get(String name){
-        return config.get(name);
+        return !config.containsKey(name) ? "" : config.get(name);
     }
 }

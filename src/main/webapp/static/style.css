@@ -1,0 +1,80 @@
+/*
+Copyright 2017 Dmitriy Malakhov.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+/* 
+    Created on : 06.11.2017, 21:24:58
+    Author     : Dmitriy Malakhov
+*/
+.header{
+    text-align: center;
+    color: rgba(91, 150, 222, 0.8);
+    font-size: 2em;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+.modules{
+    border: 1px solid #ccc;
+    width: 600px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    box-shadow: 0 3px 4px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px
+}
+.title{
+    color: rgba(91, 150, 222, 0.8);
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.btn{
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer
+}
+
+    
+.block{
+    box-sizing: border-box;
+    border-radius: 2px;
+    box-shadow: 0 3px 4px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+.block:hover{
+     box-shadow: 0 4px 12px 0 rgba(0,0,0,0.3), 0 0 0 1px rgba(0,0,0,0.08);
+}  
+            
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+}    
+.error{
+    background-color: #fcc;
+}
+th,td{
+   border-top: 2px solid #ddd;
+   padding: 5px;
+}
+.downloader{
+    margin-top: 10px;
+}
+.fa{
+    cursor: pointer;
+}
