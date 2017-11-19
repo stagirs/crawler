@@ -36,18 +36,17 @@ public class MsuCmcWorks extends Downloader{
 
     @Override
     protected void process(Session session) throws Exception {
-        String lastRelease = conf.get(getId() + ".lastRelease");
         List<Element> releases = getAvailableReleases();
         for (int i = releases.size() - 1; i >= 0; i--) {
             Element release = releases.get(i);
             String curRelease = release.select("a.show").text();
-            if(lastRelease.compareTo(curRelease) >= 0){
-                break;
+            if(!isNewRelease(curRelease)){
+                continue;
             }
             for(Record record : processList(release.select(".list").first().children(), curRelease)){
                 save(session, record);
             }
-            conf.set(getId() + ".lastRelease", releases.get(0).select("a.show").text());
+            save(curRelease);
         }
     }
     
@@ -66,7 +65,7 @@ public class MsuCmcWorks extends Downloader{
                 Record record = new Record();
                 record.setType(Record.Type.PAPER);
                 record.setTitle(children.get(i + 1).text());
-                record.setUrl("https://cs.msu.ru" + children.get(i + 1).attr("href"));
+                record.setUrl(getUrl() + children.get(i + 1).attr("href"));
                 record.setLocation("Москва");
                 record.setSource(getName());
                 record.setPages(releaseName + ", " + section);
@@ -90,11 +89,17 @@ public class MsuCmcWorks extends Downloader{
     }
     
     private List<Element> getAvailableReleases() throws IOException{
-        return Jsoup.connect("https://cs.msu.ru/node/2272").validateTLSCertificates(false).get().select(".row");
+        return Jsoup.connect(getUrl() + "/node/2272").validateTLSCertificates(false).get().select(".row");
     }
 
     @Override
     public String getName() {
         return "Труды ВМК МГУ «Прикладная математика и информатика»";
     }
+
+    @Override
+    public String getUrl() {
+        return "https://cs.msu.ru";
+    }
+    
 }

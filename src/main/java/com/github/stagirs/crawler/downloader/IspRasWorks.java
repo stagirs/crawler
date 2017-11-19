@@ -26,6 +26,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
@@ -44,39 +45,38 @@ public class IspRasWorks extends Downloader{
     public String getName() {
         return "Труды Института системного программирования РАН";
     }
+
+    @Override
+    public String getUrl() {
+        return "http://www.ispras.ru";
+    }
+    
+    
     
     @Override
     public void process(Session session) throws IOException, InterruptedException {
         for (String year : getAvailableYears()) {
-            if(year.compareTo(conf.get(getId() + ".lastYear")) < 0){
-                continue;
-            }
-            if(!year.equals(conf.get(getId() + ".lastYear"))){
-                conf.set(getId() + ".lastYear", year);
-                conf.set(getId() + ".lastProcessRelease", "");
-            }
-            
             for (String release : getAvailableReleases(year)) {
-                if(release.compareTo(conf.get(getId() + ".lastProcessRelease")) <= 0){
+                if(!isNewRelease(release)){
                     continue;
                 }
                 for(Record record : releaseDownload(release)){
                     save(session, record);
                 }
-                conf.set(getId() + ".lastProcessRelease", release);
+                save(release);
             }
         }
     }
     
     private List<Record> releaseDownload(String release) throws IOException, InterruptedException{
         List<Record> releases = new ArrayList<>();
-        Document doc = Jsoup.connect("http://www.ispras.ru/proceedings/" + release + "/").get();
+        Document doc = Jsoup.connect(getUrl() + "/proceedings/" + release + "/").get();
         for(Element el : doc.select(".main-inform a")){
             String href = el.attr("href");
             if(href.endsWith("recent-issues.php") || href.endsWith(".pdf")){
                 continue;
             }
-            releases.add(getRecord(Jsoup.connect("http://www.ispras.ru" + href).get()));
+            releases.add(getRecord(Jsoup.connect(getUrl() + href).get()));
             Thread.sleep(1000);
         }
         return releases;
@@ -121,11 +121,10 @@ public class IspRasWorks extends Downloader{
     
     private List<String> getAvailableYears() throws IOException{
         List<String> years = new ArrayList<>();
-        Document doc = Jsoup.connect("http://www.ispras.ru/proceedings/all-archives.php").get();
+        Document doc = Jsoup.connect(getUrl() + "/proceedings/all-archives.php").get();
         for(Element el : doc.select("a.link_publication")){
             years.add(el.attr("href").split("/")[2]);
         }
-        Collections.sort(years);
         return years;
     }
     

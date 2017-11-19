@@ -41,10 +41,13 @@ public abstract class Downloader implements Runnable{
     @Autowired
     private Manager manager;
     private File recordIdsFile = new File(System.getProperty("catalina.home") + "/work/crawler/recordIds/" + getId());
-    private TLongHashSet recordIds = new TLongHashSet();
+    private File releaseIdsFile = new File(System.getProperty("catalina.home") + "/work/crawler/releaseIds/" + getId());
+    private Set<String> recordIds = new HashSet<String>();
+    private Set<String> releaseIds = new HashSet<String>();
     
     protected abstract void process(Session session) throws Exception;
     public abstract String getName();
+    public abstract String getUrl();
     
     public String getId(){
         return this.getClass().getSimpleName();
@@ -53,11 +56,13 @@ public abstract class Downloader implements Runnable{
     @PostConstruct
     public void init(){
         recordIdsFile.getParentFile().mkdirs();
+        releaseIdsFile.getParentFile().mkdirs();
         try {
             if(recordIdsFile.exists()){
-                for(String line : FileUtils.readLines(recordIdsFile, "utf-8")){
-                    recordIds.add(toLong(line));
-                }
+                recordIds.addAll(FileUtils.readLines(recordIdsFile, "utf-8"));
+            }
+            if(releaseIdsFile.exists()){
+                releaseIds.addAll(FileUtils.readLines(releaseIdsFile, "utf-8"));
             }
             manager.getDownloaders().add(this);
         } catch (IOException ex) {
@@ -89,6 +94,19 @@ public abstract class Downloader implements Runnable{
         session.incErrorCount();
     }
     
+    protected boolean isNewRelease(String releaseId){
+        return !releaseIds.contains(releaseId);
+    }
+    
+    protected void save(String releaseId){
+        try {
+            FileUtils.write(releaseIdsFile, releaseId + "\n", "utf-8", true);
+            releaseIds.add(releaseId);
+        } catch (IOException ex) {
+            throw new RuntimeException(ex);
+        }
+    }
+    
     protected void save(Session session, Record record){
         record.setDownloaderId(getClass().getSimpleName());
         record.setDateTime(Utils.SDF.DATE_TIME.format(new Date()));
@@ -101,8 +119,8 @@ public abstract class Downloader implements Runnable{
         }
         manager.addRecord(record);
         try {
-            FileUtils.write(recordIdsFile, record.getDateTime() + "\t" + record.getHash() + "\n", "utf-8", true);
-            recordIds.add(record.getHash());
+            FileUtils.write(recordIdsFile, record.getUrl() + "\n", "utf-8", true);
+            recordIds.add(record.getUrl());
         } catch (IOException ex) {
             throw new RuntimeException(ex);
         }
