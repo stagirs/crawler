@@ -1,0 +1,608 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=Windows-1251'>
+<META NAME='keywords' CONTENT='В. А. Копытцев, В. Г. Михайлов, , Оценка точности аппроксимациив предельной теореме Б. А. Севастьянова и ее применение в задаче о случайных включениях, суммы случайных индикаторов, пуассоновская аппроксимация, системы случайных включений над конечным полем.'>
+
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      extensions: ["tex2jax.js"],
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+          inlineMath: [ ['$','$'] ],
+          displayMath: [ ['$$','$$'] ],
+          processEscapes: true
+          },
+      "HTML-CSS": { availableFonts: ["TeX"] 
+      },
+
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+
+      });
+  </script>
+  <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+  
+
+<link title="Дискретная математика, Последний номер" rel="alternate" type="application/rss+xml" href="/rss/rssLastIssue.phtml?jrnid=dm&option_lang=rus"><link title="Дискретная математика, Текущие выпуски" rel="alternate" type="application/rss+xml" href="/rss/rssRecentIssues.phtml?mode=current&jrnid=dm&option_lang=rus"><link title="Дискретная математика, Архивные выпуски" rel="alternate" type="application/rss+xml" href="/rss/rssRecentIssues.phtml?mode=archive&jrnid=dm&option_lang=rus">
+<meta property="fb:admins" content="100001948773698" />
+
+	<title>В.&nbsp;А.&nbsp;Копытцев, В.&nbsp;Г.&nbsp;Михайлов, &#x201C;Оценка точности аппроксимациив предельной теореме Б.&thinsp;А.&thinsp;Севастьянова и ее применение в задаче о случайных включениях&#x201D;, Дискрет. матем., 26:1 (2014), 75&ndash;84; Discrete Math. Appl., 25:3 (2015), 149&ndash;156</title>
+	<link href='/css/mathnet.css?v=1.6' rel='stylesheet' type='text/css'>
+	<link href='/css/webcard.css' rel='stylesheet' type='text/css'>
+
+ 	</head>
+	<body class='mainInfo' >
+
+	<table border=0 width=100% cellspacing=0 cellpadding=0><tr><td><table
+        border=0 width=100% cellspacing=0 cellpadding=0>
+	<tr class=topPic>
+	<td align=center><img src=/images/dm_rus.jpg></td>
+	</tr>
+	</table>
+
+
+
+		<table border=0 width=100% cellspacing=0 cellpadding=0>
+	<tr  >
+	<td valign=middle align=right class=fon1>
+	<a title='Мобильная версия' href=http://m.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=dm&paperid=1268&option_lang=rus><img src=/images/mobile.gif border=0></a>
+	</td>
+	<td align=left class=fon1><nobr>
+		<a class=r1 href=/php/archive.phtml?wshow=paper&jrnid=dm&paperid=1268&option_lang=rus>RUS</a>&nbsp;
+	    	<a class=r1 href=/php/archive.phtml?wshow=paper&jrnid=dm&paperid=1268&option_lang=eng>ENG</a></nobr></td>
+			<td class=fon1 align=center>
+	<nobr>
+		<a class=r1 href=/ej.phtml?option_lang=rus>ЖУРНАЛЫ</a>
+		&nbsp;	
+		<a class=r1 href=/php/person.phtml?option_lang=rus>ПЕРСОНАЛИИ</a>
+		&nbsp;
+		<a class=r1 href=/php/organisation.phtml?option_lang=rus>ОРГАНИЗАЦИИ</a>
+		&nbsp;
+		<a class=r1 href=/php/conference.phtml?option_lang=rus>КОНФЕРЕНЦИИ</a>
+		&nbsp;
+		<a class=r1 href=/php/seminars.phtml?option_lang=rus>СЕМИНАРЫ</a>
+		&nbsp;
+		<a class=r1 href=/php/presentation.phtml?option_lang=rus>ВИДЕОТЕКА</a>
+		&nbsp;
+		<a class=r1 href=/poffice/mirefmodule.phtml?wshow=mirefmodule&option_lang=rus>ЛИЧНЫЙ КАБИНЕТ</a>
+
+	</nobr>
+	</td>
+	<td valign=middle align=right class=fon1>
+	<nobr>
+		<a title='Математические формулы на сайте показываются при помощи MathJax. Кликните здесь, чтобы увидеть код LaTeX' rel="nofollow" class=mjON href="/php/enableMathJax.phtml?backtourl=%2Fphp%2Farchive.phtml%3Fwshow%3Dpaper%26jrnid%3Ddm%26paperid%3D1268%26option_lang%3Drus"><img src=/gifs/mjON.gif border=0></a>	
+			</nobr>
+	</td>
+	<td valign=middle align=right class=fon1>
+	<a title='Главная страница' href=/?option_lang=rus><img src=/images/home2.gif border=0></a>
+	</td>
+	</tr>
+	</table>
+
+	<noscript>
+	<div style='margin: 10px; padding: 10px; text-align: center; border: 1px solid #A91818; background-color: lightyellow'>
+	<b>JavaScript is disabled in your browser. Please switch it on to enable full functionality of the website</b>
+	</div>
+	</noscript>
+
+
+
+	<script language="JavaScript" src="/js/func_string.js?v=8.2"></script>
+<script language="JavaScript" src="/js/phpjs.js?v=1"></script>
+<link rel="STYLESHEET" type="text/css" href="/css/calendar.css">
+<script language=JavaScript>
+var EDIT_DISABLED_BOOL;
+var CALENDAR_LANG;
+</script>
+ 
+
+	
+<script language=JavaScript src=/js/func_dates.js?v=1></script>  <script language=JavaScript src="/js/libmenu.js"></script>
+	<script language=JavaScript src="/js/md5.js"></script>
+	<script language=JavaScript src="/js/prototype.js"></script>
+        <script language=JavaScript src="/js/func_controls.js?v=2"></script>
+		
+	<table border=0 cellspacing=0 cellpadding=10 width=100%>
+	<tr>
+	<td valign=top class=leftcol>
+	  <script language=JavaScript>
+	function NavMOver(eItem,i){
+	//eItem.DefaultBgColor = eItem.style.backgroundColor;
+	//eItem.style.backgroundColor = 'lightyellow';
+	}
+
+	function NavMOut(eItem,i){
+	//eItem.style.backgroundColor = eItem.DefaultBgColor;
+	}
+	</script>
+
+	<table width=100%>
+		<tr>
+			<td valign=top align=right><IMG src="/gifs/ar9.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="ry" href="/php/journal.phtml?jrnid=dm&wshow=details&option_lang=rus">Общая информация</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/ar9.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="ry" href="/php/currentissue.phtml?jrnid=dm&option_lang=rus">Последний выпуск</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/ar8.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="ry1" href="/php/archive.phtml?jrnid=dm&wshow=contents&option_lang=rus">Архив</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/ar9.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="ry" href="/php/ifactor.phtml?jrnid=dm&wshow=IF_details&option_lang=rus">Импакт-фактор</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/ar9.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="ry" href="/php/authornotes.phtml?jrnid=dm&wshow=authornotes&option_lang=rus">Правила для авторов</a></nobr></td>
+			</tr>
+				<tr>
+			<td><br></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/search.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="ry" href="/php/search.phtml?jrnid=dm&tjrnid=dm&wshow=search&option_lang=rus">Поиск публикаций</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/search.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="ry" href="/php/searchrefs.phtml?option_lang=rus">Поиск ссылок</a></nobr></td>
+			</tr>
+				<tr>
+			<td><br></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/rss.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="ry" href="/rss/rssRecentIssues.phtml?jrnid=dm&option_lang=rus">RSS</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/1pts.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="rys" href="/rss/rssLastIssue.phtml?jrnid=dm&option_lang=rus">Последний выпуск</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/1pts.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="rys" href="/rss/rssRecentIssues.phtml?mode=current&jrnid=dm&option_lang=rus">Текущие выпуски</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/1pts.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="rys" href="/rss/rssRecentIssues.phtml?mode=archive&jrnid=dm&option_lang=rus">Архивные выпуски</a></nobr></td>
+			</tr>
+				<tr>
+			<td valign=top align=right><IMG src="/gifs/1pts.gif" border=0></td>
+			<td valign=top align=left><nobr><a class="rys" href="/help.phtml?wshow=rss&option_lang=rus">Что такое RSS</a></nobr></td>
+			</tr>
+				</table>
+	<br>
+	<hr color=#AC4E4A>
+	<br>
+		
+	<table border=0 cellspacing=0 cellpadding=2>
+	<script language=JavaScript>
+	function fsubmit_findfast(){
+		myform=document.forms['findfast'];
+		if(myform.syear.value=='' && myform.svolume.value=='' && myform.sissue.value=='' && myform.spage.value==''){
+			alert('Введите данные для поиска');
+			return false;
+		}
+		return true;
+	}
+	
+	function fsubmit_findfast_do(){
+		if(fsubmit_findfast()){
+			document.forms['findfast'].submit();
+			return true;
+		}
+		else{
+			return false;
+		}
+	}
+	
+	</script>
+	<form name='findfast' action=/php/journal.phtml method=GET onSubmit="return fsubmit_findfast()">
+	<input type=hidden name=jrnid value=dm>
+	<input type=hidden name=option_lang value=rus>
+	<input type=hidden name=wshow value=fgo>
+	<tr>
+	<td colspan=2 class=x-bl><b>Дискрет. матем.:</b></td>
+	</tr>
+	<tr>
+	<td align=right class=x-bl>Год:</td>
+	<td><input type=input class=ID size=10 name=syear value=></td>
+	</tr>
+	<tr>
+	<td align=right class=x-bl>Том:</td>
+	<td><input type=input class=ID size=10 name=svolume value=></td>
+	</tr>
+	<tr>
+	<td align=right class=x-bl>Выпуск:</td>
+	<td><input type=input class=ID size=10 name=sissue value=></td>
+	</tr>
+	<tr>
+	<td align=right class=x-bl>Страница:</td>
+	<td><input type=input class=ID size=10 name=spage value=></td>
+	</tr>
+
+	<tr>
+	<td align=right class=x-bl><input type=image src=/images/ar5.gif border=0></td>
+	<td><a class=ri href=# onClick="return fsubmit_findfast_do()">Найти</a></td>
+	</tr>
+	</form>
+	</table>
+	
+	<br>
+	<hr color=#AC4E4A size=1>
+	<br>
+	
+<script>
+  (function() {
+    var cx = '016263596811403645603:nkhdtbysq40';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:')
+    +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only resultsUrl="/googlesitesearch.phtml?option_lang=rus" newWindow="false" queryParameterName="q"></gcse:searchbox-only>
+    
+<br>
+<hr color=#AC4E4A size=1>
+<br>
+	<table border=0 cellspacing=0 cellpadding=2>
+	<script language=JavaScript src=/js/md5.js></script>
+	<script language=JavaScript src=/js/func_string.js></script>
+	<script language=JavaScript>
+	function fsubmit_login(){
+		myform=document.forms['loginf'];
+		myform.login.value=trim(myform.login.value);
+		myform.password.value=trim(myform.password.value);
+		if(myform.login.value=='' && myform.password.value==''){
+			alert('Введите логин и пароль');
+			return false;
+		}
+
+		if(!CheckStringReg(myform.login.value,regLogin,'Логин')){return false;}
+		myform.phash.value=MD5(myform.password.value);
+		myform.password.value='';
+		return true;
+	}
+	
+	function fsubmit_login_do(){
+		if(fsubmit_login()){
+			document.forms['loginf'].submit();
+			return true;
+		}
+		else{
+			return false;
+		}
+	}
+	
+	</script>
+	<a name=login></a>
+	<form name='loginf' action=/personal/plogin_do.phtml?option_lang=rus method=POST onSubmit="return fsubmit_login()">
+	<input type=hidden name=phash value=''>
+
+	<tr>
+	<td align=left colspan=2 class=x-bl><b><nobr>Персональный вход:</nobr></b></td>
+	</tr>
+	<tr>
+	<td align=right class=x-bl>Логин:</td>
+	<td align=left><input type=input class=ID size=10 name=login></td>
+	</tr>
+	<tr>
+	<td align=right class=x-bl>Пароль:</td>
+	<td align=left><input type=password class=ID size=10 name=password></td>
+	</tr>
+
+	<tr>
+	<td align=right class=x-bl><input type=checkbox name=if_savelogin></td>
+	<td class=x-bl align=left><nobr>Запомнить пароль</nobr></td>
+	</tr>
+
+	<tr>
+	<td align=right class=x-bl><input type=image src=/images/ar5.gif border=0></td>
+	<td align=left><a class=ri href=# onClick="return fsubmit_login_do()">Войти</a></td>
+	</tr>
+
+	<tr>
+	<td align=right class=x-bl><img src=/images/ar5.gif border=0></td>
+	<td align=left><a class=ri href=/php/getpassword.phtml?option_lang=rus>Забыли пароль?</a></td>
+	</tr>
+
+	<tr>
+	<td align=right class=x-bl><img src=/images/ar5.gif border=0></td>
+	<td align=left><a class=ri href=/php/registration.phtml?option_lang=rus>Регистрация</a></td>
+	</tr>
+	<input type=hidden name=qs value="/php/archive.phtml?wshow=paper&jrnid=dm&paperid=1268&option_lang=rus">
+	<input type=hidden name=qsrw value="">
+	</form>
+	</table>
+	
+	<br>
+
+		
+	<div align=center>
+
+	<a href="http://www.mathjax.org/">
+	<img hspace=35 title="Powered by MathJax" src="/gifs/mathjax.png" border="0" alt="Powered by MathJax"/ width=80 >
+	</a>
+	
+
+	<a href=http://www.crossref.org>
+	<img title='Crossref' width=100 hspace=35 src="/gifs/crossrefenabled.gif" border=0>
+	</a>
+
+	</div>
+		</td>
+	<td valign=top>
+		
+		<hr color=#AC4E4A size=1>
+		<table width=100% cellpadding=0 cellspacing=0 border=0>
+		<tr>
+		<td width=70%>
+		<i>Дискрет. матем., 	2014,	<a class=SLink href=/php/archive.phtml?wshow=contents&option_lang=rus&jrnid=dm&vl=26&yl=2014&series=0#showvolume> том&nbsp;26,</a>	<a class=SLink href=/php/contents.phtml?wshow=issue&jrnid=dm&year=2014&volume=26&issue=1&series=0&option_lang=rus> выпуск&nbsp;1,</a>	<nobr>страницы&nbsp;<nobr>75&ndash;84</nobr></nobr>	</i>
+		<span class=red><nobr>(Mi dm1268)</nobr></span>
+		</td>
+			<td width=15% align=right>
+				<a title='Дискрет. матем., 2014,  том&nbsp;26,  выпуск&nbsp;1, страницы&nbsp;49&ndash;74'
+				href=/rus/dm1267><img onmouseover="this.src='/images/prev1.gif'" onmouseout="this.src='/images/prev2.gif'" src=/images/prev2.gif border=0></a>	</td>
+			<td>&nbsp;</td>
+			<td width=15% align=left>
+				<a title='Дискрет. матем., 2014,  том&nbsp;26,  выпуск&nbsp;1, страницы&nbsp;85&ndash;95'
+				href=/rus/dm1269><img onmouseover="this.src='/images/next1.gif'" onmouseout="this.src='/images/next2.gif'" src=/images/next2.gif border=0></a>	</td>
+				</tr>
+			</table>
+                <hr color=#AC4E4A size=1>	
+		<span class=red><font size=+1>Оценка точности аппроксимациив предельной теореме Б.&thinsp;А.&thinsp;Севастьянова и ее применение в задаче о случайных включениях</font></span>
+			<br><br>
+			<a class=SLink href=/php/person.phtml?option_lang=rus&personid=27816>В.&nbsp;А.&nbsp;Копытцев</a><sup><i>a</i></sup>, 	<a class=SLink href=/php/person.phtml?option_lang=rus&personid=17796>В.&nbsp;Г.&nbsp;Михайлов</a><sup><i>b</i></sup>	<br>	<br><sup><i>a</i></sup> <a class=SLink href=/php/organisation.phtml?option_lang=rus&orgid=2720><i>Академия криптографии&nbsp;РФ</i></a>
+					<br><sup><i>b</i></sup> <a class=SLink href=/php/organisation.phtml?option_lang=rus&orgid=748><i>Математический институт им.&nbsp;В.&nbsp;А.&nbsp;Стеклова РАН</i></a>
+					<br><br>
+			<b>Аннотация:</b>
+			Получена оценка точности пуассоновской аппроксимации в известной теореме Б. А. Севастьянова об условиях сходимости распределения суммы случайных индикаторов к распределению Пуассона. Этот результат применяется для оценки скорости сходимости к предельному пуассоновскому распределению в одной из теорем для числа решений систем случайных включений.
+				<br><br>
+			<b>Ключевые&nbsp;слова:</b>
+			<i>суммы случайных индикаторов, пуассоновская аппроксимация, системы случайных включений над конечным полем.</i>	<br><br>
+			<b>DOI:</b>
+			<a title="DOI: https://doi.org/10.4213/dm1268" class=SLink target=_blank href='https://doi.org/10.4213/dm1268'>https://doi.org/10.4213/dm1268</a><a title="DOI: https://doi.org/10.4213/dm1268" class=SLink target=_blank href='https://doi.org/10.4213/dm1268'><img hspace=4 src=/reficons/crossref.gif border=0></a><br>	<br>
+				<img title='Доступен полный текст статьи' align=absmiddle src=/gifs/wvolsa.gif border=0> <b>Полный текст:</b> 
+				<a class=SLink href=/php/getFT.phtml?jrnid=dm&paperid=1268&what=fullt&option_lang=rus>PDF файл</a> (174&nbsp;kB)
+					<br>
+			<img title='Список литературы' src=/gifs/wvolsa.gif border=0> <b>Список литературы:</b>
+			<a class=SLink href=/php/getRefFromDB.phtml?jrnid=dm&paperid=1268&output=pdf&option_lang=rus>PDF файл</a>
+			&nbsp;
+			<a class=SLink href=/php/getRefFromDB.phtml?jrnid=dm&paperid=1268&output=htm&option_lang=rus>HTML файл</a>
+				<br><br>
+			<b>Англоязычная версия:</b>
+			<br>
+			<a title="DOI: https://doi.org/10.1515/dma-2015-0015" class=SLink target=_blank href='https://doi.org/10.1515%2Fdma-2015-0015'>Discrete Mathematics and Applications, 2015, <b>25</b>:3, <nobr><nobr>149&ndash;156</nobr></nobr></a><a title="DOI: https://doi.org/10.1515/dma-2015-0015" class=SLink target=_blank href='https://doi.org/10.1515%2Fdma-2015-0015'><img hspace=4 src=/reficons/crossref.gif border=0></a>	<br><br>
+			<b>Реферативные базы данных:</b>
+			<a title="MathSciNet bibliographic data: 3236303" class=SLink target=_blank href='http://www.ams.org/mathscinet-getitem?mr=3236303'><img hspace=4 src=/reficons/mathscinet.gif border=0></a><a title="Web of Science: 000366854000004" class=SLink target=_blank href='http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&DestLinkType=FullRecord&DestApp=ALL_WOS&KeyUT=000366854000004'><img hspace=4 src=/reficons/isi.gif border=0></a><a title="Scopus: 2-s2.0-84931067536" class=SLink target=_blank href='http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84931067536'><img hspace=4 src=/reficons/scopus.gif border=0></a><a title="eLibrary.Ru: 21826364" class=SLink target=_blank href='http://elibrary.ru/item.asp?id=21826364'><img hspace=4 src=/reficons/elib.gif border=0></a><a title="eLibrary.Ru: 24049668" class=SLink target=_blank href='http://elibrary.ru/item.asp?id=24049668'><img hspace=4 src=/reficons/elib.gif border=0></a><br>	<br>
+			<b>Тип публикации:</b>
+			Статья	<br>
+			<b>УДК:</b>
+			<span class=showUDC title="Теория вероятностей и случайные процессы">519.21</span>	<br><b>Статья поступила:</b> 01.10.2013	<br><br>
+				<b>Образец цитирования:</b>
+				В.&nbsp;А.&nbsp;Копытцев, В.&nbsp;Г.&nbsp;Михайлов, &#x201C;Оценка точности аппроксимациив предельной теореме Б.&thinsp;А.&thinsp;Севастьянова и ее применение в задаче о случайных включениях&#x201D;, <span style="font-style: italic; font-weight: normal">Дискрет. матем.</span>, <span style="font-style: normal; font-weight: bold">26</span>:1 (2014), <nobr>75&ndash;84</nobr>; <span style="font-style: italic; font-weight: normal">Discrete Math. Appl.</span>, <span style="font-style: normal; font-weight: bold">25</span>:3 (2015), <nobr>149&ndash;156</nobr>
+				
+
+				<br><br>
+				
+				
+				<script language=JavaScript>
+				function doCitShow(){
+					obj=document.getElementById('citPaperAMSBIBID');
+					pic=document.getElementById('citPaperButton');
+					
+					if(obj.style.display=='none'){
+						obj.style.display='';
+						pic.src='/gifs/flash.jpg';						
+					}
+					else{
+						obj.style.display='none';
+						pic.src='/gifs/flasha.jpg';
+					}
+				}
+				</script>				
+
+
+
+				<img src=/gifs/flash.jpg align=absmiddle id='citPaperButton' onClick="doCitShow()" style='display: '>
+				<b>Цитирование в формате <a class=SLink target=_blank href=/poffice/amsbibpackage.phtml?wshow=amsbibpackage&option_lang=rus><b><i>AMSBIB</i></b></a></b>
+				<div ID='citPaperAMSBIBID' style='width:100%'>
+				<div class=showamsbib><code style=\"font-size: normal\">\RBibitem{KopMik14}<br />
+\by В.~А.~Копытцев, В.~Г.~Михайлов<br />
+\paper Оценка точности аппроксимациив предельной теореме Б.\,А.\,Севастьянова и ее применение в задаче о случайных включениях<br />
+\jour Дискрет. матем.<br />
+\yr 2014<br />
+\vol 26<br />
+\issue 1<br />
+\pages 75--84<br />
+\mathnet{http://mi.mathnet.ru/dm1268}<br />
+\crossref{https://doi.org/10.4213/dm1268}<br />
+\mathscinet{http://www.ams.org/mathscinet-getitem?mr=3236303}<br />
+\elib{http://elibrary.ru/item.asp?id=21826364}<br />
+\transl<br />
+\jour Discrete Math. Appl.<br />
+\yr 2015<br />
+\vol 25<br />
+\issue 3<br />
+\pages 149--156<br />
+\crossref{https://doi.org/10.1515/dma-2015-0015}<br />
+\isi{http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&DestLinkType=FullRecord&DestApp=ALL_WOS&KeyUT=000366854000004}<br />
+\elib{http://elibrary.ru/item.asp?id=24049668}<br />
+\scopus{http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84931067536}<br />
+</code></div>
+				</div>
+					<br><br>
+		<b>Образцы ссылок на эту страницу:</b>
+		<li>http://mi.mathnet.ru/dm1268<li>https://doi.org/10.4213/dm1268	<li>http://mi.mathnet.ru/rus/dm/v26/i1/p75	
+		 
+		<br><br>
+		<table border=0 style='color: #888888; width:90%; background-color: #efefef; border: 1px solid #d3d3d3'>
+
+		<tr>
+		<td align=right><b>ОТПРАВИТЬ:</b></td>
+		<td colspan=2>
+
+
+		<a rel="nofollow" target="_blank" 
+		href="https://vk.com/share.php?url=http://www.mathnet.ru/dm1268">
+		<img style="border:0;" src="/social/vkontakte.gif" alt="VKontakte.ru" title="VKontakte.ru"></a>
+
+
+		<a rel="nofollow" target="_blank" 
+		href="https://www.facebook.com/sharer.php?u=http://www.mathnet.ru/dm1268">
+		<img style="border:0;" src="/social/facebook.png"  alt="FaceBook" title="FaceBook"></a>
+
+
+		<a rel="nofollow" target="_blank" 
+		href="https://twitter.com/home/?status=%D0%92.%20%D0%90.%20%D0%9A%D0%BE%D0%BF%D1%8B%D1%82%D1%86%D0%B5%D0%B2%2C%20%D0%92.%20%D0%93.%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%2C%20%26%23x201C%3B%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B5%20%D0%91.%20%D0%90.%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D0%B5%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B5%20%D0%BE%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%D1%85%26%23x201D%3B%2C%20%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82.%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC.%2C%20%20%202014%2C%20%20%D1%82%D0%BE%D0%BC%2026%2C%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%201%2C%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%2075--84%20http://www.mathnet.ru/dm1268">
+		<img style="border:0;" src="/social/twitter.png"  alt="Twitter" title="Twitter"></a>
+
+
+		<!--
+		<a rel="nofollow" target="_blank" 
+		href="https://www.google.com/reader/link?url=http://www.mathnet.ru/dm1268&title=%D0%92.%20%D0%90.%20%D0%9A%D0%BE%D0%BF%D1%8B%D1%82%D1%86%D0%B5%D0%B2%2C%20%D0%92.%20%D0%93.%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%2C%20%26%23x201C%3B%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B5%20%D0%91.%20%D0%90.%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D0%B5%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B5%20%D0%BE%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%D1%85%26%23x201D%3B%2C%20%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82.%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC.%2C%20%20%202014%2C%20%20%D1%82%D0%BE%D0%BC%2026%2C%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%201%2C%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%2075--84%20">
+		<img style="border:0;" src="/social/buzz.jpg" alt="Google Buzz" title="Google Buzz"></a>
+		-->
+
+		<!--
+		<a rel="nofollow" target="_blank" 
+		href="https://my.ya.ru/posts_add_link.xml?title=%D0%92.%20%D0%90.%20%D0%9A%D0%BE%D0%BF%D1%8B%D1%82%D1%86%D0%B5%D0%B2%2C%20%D0%92.%20%D0%93.%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%2C%20%26%23x201C%3B%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B5%20%D0%91.%20%D0%90.%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D0%B5%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B5%20%D0%BE%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%D1%85%26%23x201D%3B%2C%20%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82.%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC.%2C%20%20%202014%2C%20%20%D1%82%D0%BE%D0%BC%2026%2C%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%201%2C%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%2075--84%20&URL=http://www.mathnet.ru/dm1268">
+		<img style="border:0;" src="/social/yru.gif" title="Ya.ru" alt="Ya.ru" /></a>
+		-->
+
+		<a rel="nofollow" target="_blank" 
+		href="https://connect.mail.ru/share?share_url=http://www.mathnet.ru/dm1268">
+		<img style="border:0;" src="/social/mail.gif" title="Mail.ru" alt="Mail.ru"></a>
+
+
+		<!--
+		<a rel="nofollow" target="_blank" 
+		href="https://www.liveinternet.ru/journal_post.php?action=l_add&amp;cnurl=http://www.mathnet.ru/dm1268">
+		<img style="border:0;" src="/social/liru.gif" alt="Liveinternet" title="Liveinternet"></a>
+		-->
+
+		<a rel="nofollow" target="_blank" 
+		href="https://www.livejournal.com/update.bml?event=http://www.mathnet.ru/dm1268&subject=%D0%92.%20%D0%90.%20%D0%9A%D0%BE%D0%BF%D1%8B%D1%82%D1%86%D0%B5%D0%B2%2C%20%D0%92.%20%D0%93.%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%2C%20%26%23x201C%3B%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B5%20%D0%91.%20%D0%90.%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D0%B5%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B5%20%D0%BE%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%D1%85%26%23x201D%3B%2C%20%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82.%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC.%2C%20%20%202014%2C%20%20%D1%82%D0%BE%D0%BC%2026%2C%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%201%2C%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%2075--84%20" >
+		<img style="border:0;" src="/social/lj.gif" alt="Livejournal" title="Livejournal"></a>
+		
+		<a rel="nofollow" target="_blank" 
+		href="https://memori.ru/link/?sm=1&u_data[url]=http://www.mathnet.ru/dm1268&u_data[name]=%D0%92.%20%D0%90.%20%D0%9A%D0%BE%D0%BF%D1%8B%D1%82%D1%86%D0%B5%D0%B2%2C%20%D0%92.%20%D0%93.%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%2C%20%26%23x201C%3B%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B5%20%D0%91.%20%D0%90.%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D0%B5%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B5%20%D0%BE%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D1%85%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%D1%85%26%23x201D%3B%2C%20%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82.%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC.%2C%20%20%202014%2C%20%20%D1%82%D0%BE%D0%BC%2026%2C%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%201%2C%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B%2075--84%20">
+		<img src="/social/memori.png" border="0" width="16" height="16" alt="Memori.ru" title="Memori.ru"></a>
+
+		</td>
+		</tr>
+
+		<tr>
+		<td></td>
+		<td>
+				
+		<!-- Put this script tag to the <head> of your page -->
+		<script type="text/javascript" src="https://userapi.com/js/api/openapi.js?49"></script>
+
+		<script type="text/javascript">  
+		VK.init({apiId: 2116281, onlyWidgets: true});
+		</script>
+	
+		<!-- Put this div tag to the place, where the Like block will be -->
+		
+		<div id="vk_like"></div>
+	
+		<script type="text/javascript">
+		VK.Widgets.Like("vk_like", {type: "full", width: 300, verb: 1, pageTitle: "http://www.mathnet.ru/dm1268", pageUrl: "http://www.mathnet.ru/dm1268"},'52e27bdf034f037c00d2f8c2a3e3df33');
+		</script>
+		
+		</td>
+		
+		<td>
+		<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.mathnet.ru%2Fdm1268&amp;layout=standard&amp;show_faces=false&amp;width=&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe>
+		</td>
+
+		</tr>
+		</table>
+		
+			<br><br>
+		<b>Citing articles on Google Scholar:</b>
+		<a class=SLink href='http://scholar.google.com/scholar?q=link:http://www.mathnet.ru/rus/dm1268'>Russian citations</a>,
+		<a class=SLink href='http://scholar.google.com/scholar?q=link:http://www.mathnet.ru/eng/dm1268'>English citations</a>
+			<br>
+		<b>Related articles on Google Scholar:</b>
+		<a class=SLink href='http://scholar.google.com/scholar?q=related:http://www.mathnet.ru/rus/dm1268'>Russian articles</a>,
+		<a class=SLink href='http://scholar.google.com/scholar?q=related:http://www.mathnet.ru/eng/dm1268'>English articles</a>
+			</td>
+		<td class=rightcol valign=top align=center>
+			<img name=logo_0 vspace=10 hspace=20 alt="Дискретная математика" src='/JrnLogos/dm/dm_cover.jpg' border=0>
+					<table style='width: 147px' title='Подсчет просмотров страниц журналов ведется с 1 мая 2008 г.' border=0 class=StatJTable cellspacing=1 cellpadding=1 align=center>
+				<tr><td align=left colspan=2>Просмотров:</td></td></tr>
+				<tr><td align=right>Эта страница:</td><td width=30%>148</td></tr><tr><td align=right>Полный текст:</td><td>23</td></tr><tr><td align=right>Литература:</td><td>25</td></tr><tr><td align=right>Первая стр.:</td><td>25</td></tr>	</table>
+				
+		<br>
+		<div style='width: 147px; border: none; margin: 5 5 5 5; padding: 5 5 5 5' align=center>
+			<a href=http://m.mathnet.ru/dm1268><img border=0 style='border: 1px solid black' title='QR-код статьи dm1268 для сканирования мобильным устройством' src="/qrcodes/papers/rus/dm1268.png"></a>
+			<div>
+			<a class=rys href=/help.phtml?wshow=qrcode&option_lang=rus>Что такое QR-код?</a>
+			</div>
+			
+		</div>
+			</td>
+			</tr>
+	</table>
+		<table border=0 width=100% cellspacing=0 cellpadding=0>
+	<tr class=man1>
+	<td width=70%>&nbsp;</td>
+	<td width=30% valign=bottom><img src=/images/man1.jpg align=left>
+	</td>
+	</tr>
+	</table>
+		<DIV class=mian>
+	<TABLE width=100% class=mian cellSpacing=0 cellPadding=10 border=0 align="center">
+	<TR>
+
+	<td width=20% align=left>
+	Обратная связь:<br>
+	<script language=JavaScript><!--
+op="a h"; mmp="ref='mai"; i35="lto:"; ne="math-net2017_11"; dv21="mi.ras&#46;ru"; ao8fu="<"+op+mmp+i35; em=ne+"@"+dv21; document.write(ao8fu+em+"'>"+"<img src=/gifs/mi1.gif border=0>"+"</a>");
+//--></script><noscript>math-net2017_11 [at] mi.ras&nbsp;ru</noscript>
+	</td>
+
+	<td valign=center width=30%  align=center>
+	<img src=/gifs/ar4.gif border=0>&nbsp;<a class=SLink href=/php/agreement.phtml?option_lang=rus>Пользовательское соглашение</a>
+	</td>
+
+	<td valign=center width=20%  align=center>
+	<img src=/gifs/ar4.gif border=0>&nbsp;<a class=SLink href=/php/registration.phtml?option_lang=rus>Регистрация</a></td>
+
+	<td valign=center width=20%  align=center>
+	<img src=/gifs/ar4.gif border=0>&nbsp;<a class=SLink href=/supplement/logo_mathnet.zip>Логотипы</a></td>
+
+
+
+	<td align=left width=28%>
+	<nobr>&copy; <A class=SLink title="Математический институт им. В. А. Стеклова РАН" href="http://www.mi.ras.ru" target=_blank>
+	Математический институт им. В. А. Стеклова РАН</A>,&nbsp;2017</nobr>
+	<!--
+	<br>
+	<nobr>&copy; <A class=SLink title="Российская академия наук, Отделение математических наук" href="http://omn.ras.ru" target=_blank>
+	Российская академия наук, Отделение математических наук</A>,&nbsp;2017</nobr>
+	-->
+	</td>
+	</tr>
+	</TABLE>
+	</DIV>
+	<br><br>
+
+	
+		<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		_uacct = "UA-3038033-1";
+		urchinTracker();
+		</script>
+		
+</body>
+
+</html>
