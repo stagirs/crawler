@@ -35,7 +35,7 @@ public class MsuCmcWorksTest {
     @Test
     public void test() throws IOException{
         MsuCmcWorks downloader = new MsuCmcWorks();
-        Document doc = Jsoup.parse(FileUtils.readFileToString(new File("src/test/resources/CmcWorks/main_page"), "utf-8"));
+        Document doc = Jsoup.parse(FileUtils.readFileToString(new File("src/test/resources/CmcWorks/main_page"), "utf-8").replaceAll("[  ]", " "));
         Element release = doc.select(".row").first();
         List<Record> records = downloader.processList(release.select(".list").first().children(), release.select("a.show").text());
         assertEquals(records.get(0).getTitle(), "Численное решение задач определения начального условия в задачах Коши для гиперболического уравнения с малым параметром.");
